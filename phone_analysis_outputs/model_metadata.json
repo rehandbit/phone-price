@@ -1,0 +1,72 @@
+{
+  "source_file": "data/phones_data_20250729_181901.csv",
+  "source_rows": 4144,
+  "source_columns": 86,
+  "conversion_taka_to_inr": 0.71,
+  "first_release_year": 2019,
+  "features": [
+    "release_year",
+    "ram_gb",
+    "storage_gb",
+    "battery_mah",
+    "screen_inches",
+    "refresh_rate_hz",
+    "charging_watts",
+    "main_camera_mp",
+    "process_nm",
+    "weight_grams",
+    "wifi_generation",
+    "android_version",
+    "has_5g",
+    "has_oled",
+    "has_headphone_jack",
+    "has_sd_slot",
+    "has_ip_rating",
+    "is_ufs_storage",
+    "brand_clean",
+    "display_type",
+    "chipset",
+    "operating_system",
+    "storage_type"
+  ],
+  "price_targets": {
+    "official": "official_price_inr",
+    "unofficial": "unofficial_price_inr"
+  },
+  "group_key": "brand_clean + normalized model family",
+  "test_size": 0.2,
+  "cv": "GroupKFold(5)",
+  "random_state": 42,
+  "holdout_metrics": [
+    {
+      "price_type": "official",
+      "rows": 1242,
+      "train_rows": 1003,
+      "test_rows": 239,
+      "train_groups": 764,
+      "test_groups": 192,
+      "selected_model": "ExtraTrees",
+      "MAE_INR": 3398.6351743793352,
+      "RMSE_INR": 7561.765796616956,
+      "R2_INR": 0.9263265067690869,
+      "Median_AE_INR": 1005.7145100842354,
+      "Median_APE_pct": 9.625734522500053,
+      "Within_20pct_pct": 78.66108786610879
+    },
+    {
+      "price_type": "unofficial",
+      "rows": 1521,
+      "train_rows": 1222,
+      "test_rows": 299,
+      "train_groups": 780,
+      "test_groups": 195,
+      "selected_model": "RandomForest",
+      "MAE_INR": 6963.796381311245,
+      "RMSE_INR": 10895.218792015678,
+      "R2_INR": 0.804579578950467,
+      "Median_AE_INR": 4190.196566084243,
+      "Median_APE_pct": 13.53031576892692,
+      "Within_20pct_pct": 63.87959866220736
+    }
+  ]
+}

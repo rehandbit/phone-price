@@ -1,6 +1,7 @@
 .DS_Store
 data/
-
+.virtual_documents/
+notebook/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

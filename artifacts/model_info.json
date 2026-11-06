@@ -1,0 +1,12 @@
+{
+  "best_model": "Gradient Boosting",
+  "test_r2": 0.9191059718810838,
+  "typical_error_percent": 12.92820701153517,
+  "within_20_percent": 69.21487603305785,
+  "range_factor_80": 1.3242687953580383,
+  "cv_r2_all_models": {
+    "Ridge": 0.8953853645690351,
+    "Random Forest": 0.9068141823126427,
+    "Gradient Boosting": 0.9247907854937649
+  }
+}

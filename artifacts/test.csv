@@ -1,0 +1,485 @@
+brand,model,group_id,ram_gb,storage_gb,battery_mah,screen_inches,refresh_rate_hz,charging_watts,main_camera_mp,weight_grams,process_nm,release_year,has_5g,has_oled_screen,chipset_maker,price_inr
+Zte,Blade A35e,Zte | Blade A35e,2.0,64.0,5000.0,6.52,90.0,,8.0,181.0,28.0,2025.0,0,0,Unisoc,5389.2300000000005
+Tecno,Spark 40 Pro Plus,Tecno | Spark 40 Pro Plus,8.0,256.0,5200.0,6.78,144.0,45.0,50.0,160.4,6.0,2025.0,0,1,MediaTek,19249.23
+Oppo,A5 5G,Oppo | A5 5G,4.0,128.0,6000.0,6.67,120.0,45.0,50.0,194.0,6.0,2025.0,1,0,MediaTek,18480.0
+Huawei,Pura 80 Pro,Huawei | Pura 80 Pro,12.0,512.0,5700.0,6.8,,100.0,50.0,219.0,,2025.0,1,1,Unknown,103950.0
+Vivo,S30 Pro Mini (16GB+512GB),Vivo | S30 Pro Mini,16.0,512.0,6500.0,6.31,120.0,90.0,50.0,186.0,4.0,2025.0,1,1,MediaTek,66220.0
+Vivo,S30 Pro Mini (512GB),Vivo | S30 Pro Mini,12.0,512.0,6500.0,6.31,120.0,90.0,50.0,186.0,4.0,2025.0,1,1,MediaTek,60060.0
+Walton,NEXG N75,Walton | NEXG N75,8.0,128.0,5000.0,6.7,120.0,,52.0,196.0,12.0,2025.0,0,0,Unisoc,10394.23
+Oneplus,Ace 5 Ultra (16GB+512GB),Oneplus | Ace 5 Ultra,16.0,512.0,6700.0,6.83,120.0,100.0,50.0,206.0,3.0,2025.0,1,1,MediaTek,50050.0
+Oneplus,Ace 5 Ultra (512GB),Oneplus | Ace 5 Ultra,12.0,512.0,6700.0,6.83,120.0,100.0,50.0,206.0,3.0,2025.0,1,1,MediaTek,44660.0
+Walton,Orbit Y13,Walton | Orbit Y13,4.0,64.0,5000.0,6.6,120.0,,8.0,195.5,28.0,2025.0,0,0,Unisoc,6159.2300000000005
+Vivo,V50 Lite 5G (256GB),Vivo | V50 Lite 5G,8.0,256.0,6500.0,6.77,120.0,90.0,50.0,197.0,6.0,2025.0,1,1,MediaTek,24101.0
+Oneplus,Ace 5 Ultra,Oneplus | Ace 5 Ultra,12.0,256.0,6700.0,6.83,120.0,100.0,50.0,206.0,3.0,2025.0,1,1,MediaTek,47740.0
+Vivo,S30 Pro Mini,Vivo | S30 Pro Mini,12.0,256.0,6500.0,6.31,120.0,90.0,50.0,186.0,4.0,2025.0,1,1,MediaTek,55440.0
+Iqoo,Z10 Turbo (512GB),Iqoo | Z10 Turbo,12.0,512.0,7620.0,6.78,144.0,90.0,50.0,212.0,4.0,2025.0,1,1,MediaTek,34650.0
+Samsung,Galaxy A36 (12GB+256GB),Samsung | Galaxy A36,12.0,256.0,5000.0,6.7,120.0,45.0,50.0,195.0,4.0,2025.0,1,1,Qualcomm,28875.0
+Vivo,V50e (256GB),Vivo | V50e,8.0,256.0,5600.0,6.77,120.0,90.0,50.0,186.0,4.0,2025.0,1,1,MediaTek,30800.0
+Iqoo,Z10 Turbo,Iqoo | Z10 Turbo,12.0,256.0,7620.0,6.78,144.0,90.0,50.0,212.0,4.0,2025.0,1,1,MediaTek,27720.0
+Realme,Narzo 80x (8GB RAM),Realme | Narzo 80x,8.0,128.0,6000.0,6.72,120.0,45.0,50.0,197.0,6.0,2025.0,1,0,MediaTek,16170.0
+Benco,V90i,Benco | V90i,4.0,64.0,5000.0,6.9,120.0,10.0,13.0,207.0,12.0,2025.0,0,0,Unisoc,7083.2300000000005
+Samsung,Galaxy F55 5G (12GB+256GB),Samsung | Galaxy F55 5G,12.0,256.0,5000.0,6.7,120.0,45.0,50.0,180.0,4.0,2024.0,1,1,Qualcomm,30800.0
+Zte,nubia RedMagic 10 Air,Zte | nubia RedMagic 10 Air,12.0,256.0,6000.0,6.8,120.0,80.0,50.0,205.0,4.0,2025.0,1,1,Qualcomm,67760.0
+Vivo,V50 Lite 5G,Vivo | V50 Lite 5G,8.0,128.0,6500.0,6.77,120.0,90.0,50.0,197.0,6.0,2025.0,1,1,MediaTek,21945.0
+Motorola,Edge 60 Fusion (12GB RAM),Motorola | Edge 60 Fusion,12.0,256.0,5200.0,6.67,120.0,68.0,50.0,177.5,4.0,2025.0,1,1,MediaTek,27335.0
+Samsung,Galaxy Z Fold5 (1TB),Samsung | Galaxy Z Fold5,12.0,1024.0,4400.0,7.6,120.0,25.0,50.0,253.0,4.0,2023.0,1,1,Qualcomm,115500.0
+Motorola,Edge 60 Fusion,Motorola | Edge 60 Fusion,8.0,256.0,5200.0,6.67,120.0,68.0,50.0,177.5,4.0,2025.0,1,1,MediaTek,25025.0
+Itel,S25 Ultra (256GB),Itel | S25 Ultra,8.0,256.0,5000.0,6.78,120.0,18.0,50.0,163.0,12.0,2025.0,0,1,Unisoc,15392.300000000001
+Realme,Narzo 80x,Realme | Narzo 80x,6.0,128.0,6000.0,6.72,120.0,45.0,50.0,197.0,6.0,2025.0,1,0,MediaTek,15400.0
+Xiaomi,Redmi A5,Xiaomi | Redmi A5,4.0,64.0,5200.0,6.88,120.0,18.0,32.0,193.0,12.0,2025.0,0,0,Unisoc,8469.23
+Infinix,Note 50 Pro Plus,Infinix | Note 50 Pro Plus,12.0,256.0,5200.0,6.78,144.0,100.0,50.0,209.0,4.0,2025.0,1,1,MediaTek,42349.23
+Motorola,Razr 2019,Motorola | Razr 2019,6.0,128.0,2510.0,6.2,,15.0,16.0,205.0,10.0,2020.0,0,1,Qualcomm,113960.0
+Vivo,iQOO 13 (512GB),Vivo | iQOO 13,12.0,512.0,6150.0,6.82,144.0,120.0,50.0,207.0,3.0,2024.0,1,1,Qualcomm,67375.0
+Samsung,Galaxy A36 (8GB+256GB),Samsung | Galaxy A36,8.0,256.0,5000.0,6.7,120.0,45.0,50.0,195.0,4.0,2025.0,1,1,Qualcomm,35419.23
+Samsung,Galaxy A36 (8GB RAM),Samsung | Galaxy A36,8.0,128.0,5000.0,6.7,120.0,45.0,50.0,195.0,4.0,2025.0,1,1,Qualcomm,31569.23
+Samsung,Galaxy A41,Samsung | Galaxy A41,4.0,64.0,3500.0,6.1,,15.0,48.0,152.0,12.0,2020.0,0,1,MediaTek,21791.0
+Vivo,T3 Ultra (12GB+256GB),Vivo | T3 Ultra,12.0,256.0,5500.0,6.78,120.0,80.0,50.0,192.0,4.0,2024.0,1,1,MediaTek,40810.0
+Vivo,T3 Ultra (256GB),Vivo | T3 Ultra,8.0,256.0,5500.0,6.78,120.0,80.0,50.0,192.0,4.0,2024.0,1,1,MediaTek,37730.0
+Proton,P25 Ultra,Proton | P25 Ultra,4.0,64.0,4300.0,6.6,,,13.0,,28.0,2025.0,0,0,Unisoc,6545.0
+Vivo,S6 5G,Vivo | S6 5G,8.0,128.0,4500.0,6.44,,18.0,48.0,181.0,8.0,2020.0,1,1,Samsung Exynos,20790.0
+Itel,Power 70,Itel | Power 70,6.0,128.0,6000.0,6.67,120.0,18.0,13.0,192.4,,2025.0,0,0,MediaTek,8462.300000000001
+Xiaomi,Mi 10 Pro 5G,Xiaomi | Mi 10 Pro 5G,8.0,256.0,4500.0,6.6,90.0,50.0,108.0,208.0,7.0,2020.0,1,1,Qualcomm,75460.0
+Tecno,Camon 12 Pro,Tecno | Camon 12 Pro,6.0,64.0,3500.0,6.35,60.0,,16.0,161.0,12.0,2019.0,0,1,MediaTek,11550.0
+Samsung,Galaxy A02,Samsung | Galaxy A02,3.0,32.0,5000.0,6.5,60.0,,13.0,206.0,28.0,2021.0,0,0,MediaTek,7692.3
+Samsung,Galaxy A70s,Samsung | Galaxy A70s,8.0,128.0,4500.0,6.7,60.0,25.0,64.0,187.0,11.0,2019.0,0,1,Qualcomm,25025.0
+Xiaomi,Redmi Note 14 4G (8GB+256GB),Xiaomi | Redmi Note 14 4G,8.0,256.0,5500.0,6.67,120.0,33.0,108.0,196.5,6.0,2025.0,0,1,MediaTek,18479.23
+Vivo,Y29 4G,Vivo | Y29 4G,6.0,128.0,6500.0,6.68,120.0,44.0,50.0,204.0,6.0,2025.0,0,0,Qualcomm,15399.23
+Vivo,Y29 (8GB+256GB),Vivo | Y29,8.0,256.0,6500.0,6.68,120.0,44.0,50.0,204.0,6.0,2025.0,0,0,Qualcomm,18479.23
+Vivo,Y29 (8GB RAM),Vivo | Y29,8.0,128.0,6500.0,6.68,120.0,44.0,50.0,204.0,6.0,2025.0,0,0,Qualcomm,16939.23
+Xiaomi,Redmi Turbo 4 (16GB+512GB),Xiaomi | Redmi Turbo 4,16.0,512.0,6550.0,6.67,120.0,90.0,50.0,203.5,4.0,2025.0,1,1,MediaTek,30415.0
+Symphony,Helio30,Symphony | Helio30,6.0,128.0,5000.0,6.67,,10.0,108.0,200.0,12.0,2022.0,0,0,MediaTek,11549.23
+Samsung,Galaxy S25 Ultra (1TB),Samsung | Galaxy S25 Ultra,12.0,1024.0,5000.0,6.9,120.0,45.0,200.0,218.0,3.0,2025.0,1,1,Qualcomm,115500.0
+Realme,14 Pro Plus (12GB RAM),Realme | 14 Pro Plus,12.0,256.0,6000.0,6.83,120.0,80.0,50.0,194.0,4.0,2025.0,1,1,Qualcomm,35420.0
+Realme,Narzo,Realme | Narzo,4.0,64.0,4300.0,6.5,90.0,30.0,48.0,191.0,12.0,2020.0,0,0,MediaTek,14630.0
+Samsung,Galaxy S25 Ultra (512GB),Samsung | Galaxy S25 Ultra,12.0,512.0,5000.0,6.9,120.0,45.0,200.0,218.0,3.0,2025.0,1,1,Qualcomm,96250.0
+Cubot,Pocket 3,Cubot | Pocket 3,4.0,64.0,3000.0,4.5,,,20.0,135.0,12.0,2022.0,0,0,MediaTek,23100.0
+Cubot,KingKong Mini 3,Cubot | KingKong Mini 3,6.0,128.0,3000.0,4.5,,,20.0,149.0,12.0,2022.0,0,0,MediaTek,25410.0
+Tcl,40 NxtPaper,Tcl | 40 NxtPaper,16.0,256.0,5010.0,6.78,90.0,33.0,50.0,195.0,12.0,2023.0,0,0,MediaTek,30800.0
+Oukitel,WP33 Pro,Oukitel | WP33 Pro,8.0,256.0,22000.0,6.6,,33.0,64.0,577.5,6.0,2024.0,1,0,MediaTek,46200.0
+Xiaomi,Redmi Note 14 Pro Plus 5G (Global) (12GB+512GB),Xiaomi | Redmi Note 14 Pro Plus 5G,12.0,512.0,5110.0,6.67,120.0,120.0,200.0,205.0,4.0,2025.0,1,1,Qualcomm,35805.0
+Xiaomi,Redmi Note 14 Pro Plus 5G (Global) (256GB),Xiaomi | Redmi Note 14 Pro Plus 5G,8.0,256.0,5110.0,6.67,120.0,120.0,200.0,205.0,4.0,2025.0,1,1,Qualcomm,32956.0
+Xiaomi,Redmi Note 14 Pro Plus 5G (Global),Xiaomi | Redmi Note 14 Pro Plus 5G,8.0,128.0,5110.0,6.67,120.0,120.0,200.0,205.0,4.0,2025.0,1,1,Qualcomm,31339.0
+Honor,X9c (512GB),Honor | X9c,12.0,512.0,6600.0,6.78,120.0,66.0,108.0,189.0,4.0,2025.0,1,1,Qualcomm,26950.0
+Xiaomi,Redmi Note 14 4G,Xiaomi | Redmi Note 14 4G,6.0,128.0,5500.0,6.67,120.0,33.0,108.0,196.5,6.0,2025.0,0,1,MediaTek,16169.23
+Xiaomi,Redmi Note 14 Pro 4G,Xiaomi | Redmi Note 14 Pro 4G,8.0,256.0,5500.0,6.67,120.0,45.0,200.0,180.0,6.0,2025.0,0,1,MediaTek,23099.23
+Xiaomi,Redmi Note 14 Pro Plus 5G,Xiaomi | Redmi Note 14 Pro Plus 5G,8.0,128.0,5110.0,6.67,120.0,120.0,200.0,205.0,4.0,2025.0,1,1,Qualcomm,31339.0
+Motorola,Moto G34 (256GB),Motorola | Moto G34,8.0,256.0,5000.0,6.5,120.0,20.0,50.0,180.0,6.0,2023.0,1,0,Qualcomm,18865.0
+Zte,nubia Z70 Ultra (16GB+512GB),Zte | nubia Z70 Ultra,16.0,512.0,6150.0,6.85,144.0,80.0,50.0,228.0,3.0,2024.0,1,1,Qualcomm,86239.23
+Xiaomi,Redmi Turbo 4,Xiaomi | Redmi Turbo 4,12.0,256.0,6550.0,6.67,120.0,90.0,50.0,203.5,4.0,2025.0,1,1,MediaTek,24640.0
+Oneplus,Nord N20 SE (128GB),Oneplus | Nord N20 SE,4.0,128.0,5000.0,6.56,,33.0,50.0,187.0,12.0,2022.0,0,0,MediaTek,11157.300000000001
+Vivo,Y29,Vivo | Y29,6.0,128.0,6500.0,6.68,120.0,44.0,50.0,204.0,6.0,2025.0,0,0,Qualcomm,15399.23
+Realme,14 Pro Plus,Realme | 14 Pro Plus,8.0,256.0,6000.0,6.83,120.0,80.0,50.0,194.0,4.0,2025.0,1,1,Qualcomm,33110.0
+Vivo,X Fold3 Pro,Vivo | X Fold3 Pro,12.0,256.0,5700.0,8.03,120.0,100.0,50.0,236.0,4.0,2024.0,1,1,Qualcomm,130900.0
+Realme,C75 (256GB),Realme | C75,8.0,256.0,6000.0,6.72,90.0,45.0,50.0,196.0,12.0,2024.0,0,0,MediaTek,17709.23
+Samsung,Galaxy F55 5G (256GB),Samsung | Galaxy F55 5G,8.0,256.0,5000.0,6.7,120.0,45.0,50.0,180.0,4.0,2024.0,1,1,Qualcomm,25025.0
+Samsung,Galaxy M15 (8GB RAM),Samsung | Galaxy M15,8.0,128.0,6000.0,6.5,90.0,25.0,50.0,217.0,6.0,2024.0,1,1,MediaTek,15399.23
+Samsung,Galaxy M15 (6GB RAM),Samsung | Galaxy M15,6.0,128.0,6000.0,6.5,90.0,25.0,50.0,217.0,6.0,2024.0,1,1,MediaTek,14245.0
+Realme,P1 Pro (256GB),Realme | P1 Pro,8.0,256.0,5000.0,6.7,120.0,45.0,50.0,217.0,4.0,2024.0,1,1,Qualcomm,22638.0
+Xiaomi,15 Ultra,Xiaomi | 15 Ultra,16.0,512.0,5410.0,6.73,120.0,90.0,50.0,226.0,3.0,2025.0,1,1,Qualcomm,123200.0
+Oneplus,13 (16GB+512GB),Oneplus | 13,16.0,512.0,6000.0,6.82,120.0,100.0,50.0,210.0,3.0,2024.0,1,1,Qualcomm,99715.0
+Meizu,20 Pro,Meizu | 20 Pro,12.0,512.0,5000.0,6.81,144.0,80.0,50.0,209.0,4.0,2023.0,1,1,Qualcomm,65450.0
+Honor,300 Ultra,Honor | 300 Ultra,12.0,512.0,5300.0,6.78,120.0,100.0,50.0,198.0,4.0,2024.0,1,1,Qualcomm,61600.0
+Honor,Magic V2 RSR Porsche Design,Honor | Magic V2 RSR Porsche Design,16.0,1024.0,5000.0,7.92,120.0,66.0,50.0,234.0,4.0,2024.0,1,1,Qualcomm,250249.23
+Realme,13 (256GB),Realme | 13,8.0,256.0,5000.0,6.72,120.0,45.0,50.0,190.0,6.0,2024.0,1,0,MediaTek,20019.23
+Walton,XANON X21,Walton | XANON X21,16.0,128.0,5000.0,6.8,120.0,33.0,64.0,199.3,6.0,2024.0,0,0,MediaTek,17599.12
+Realme,C75,Realme | C75,8.0,128.0,6000.0,6.72,90.0,45.0,50.0,196.0,12.0,2024.0,0,0,MediaTek,15399.23
+Xiaomi,Redmi 14C (6GB RAM),Xiaomi | Redmi 14C,6.0,128.0,5160.0,6.88,120.0,18.0,50.0,211.0,12.0,2024.0,0,0,MediaTek,10779.23
+Zte,nubia Z70 Ultra,Zte | nubia Z70 Ultra,12.0,256.0,6150.0,6.85,144.0,80.0,50.0,228.0,3.0,2024.0,1,1,Qualcomm,65450.0
+Lava,Agni 3 (256GB),Lava | Agni 3,8.0,256.0,5000.0,6.78,120.0,66.0,50.0,212.0,4.0,2024.0,1,1,MediaTek,20397.3
+Itel,S25 Ultra,Itel | S25 Ultra,8.0,128.0,5000.0,6.78,120.0,18.0,50.0,163.0,12.0,2025.0,0,1,Unisoc,13852.300000000001
+Zte,nubia Red Magic 10 Pro Plus,Zte | nubia Red Magic 10 Pro Plus,16.0,512.0,7050.0,6.85,144.0,120.0,50.0,229.0,3.0,2024.0,1,1,Qualcomm,96250.0
+Honor,300,Honor | 300,12.0,256.0,5300.0,6.7,120.0,100.0,50.0,175.0,4.0,2024.0,1,1,Qualcomm,26180.0
+Infinix,Hot 8 (4GB+64GB),Infinix | Hot 8,4.0,64.0,5000.0,6.52,60.0,,13.0,179.0,12.0,2019.0,0,0,MediaTek,8847.300000000001
+Realme,5s (128GB),Realme | 5s,4.0,128.0,5000.0,6.5,,10.0,48.0,198.0,11.0,2019.0,0,0,Qualcomm,15015.0
+Xiaomi,Poco X2 (8GB+256GB),Xiaomi | Poco X2,8.0,256.0,4500.0,6.67,120.0,27.0,64.0,208.0,8.0,2020.0,0,0,Qualcomm,21560.0
+Realme,X50 5G (8GB+128GB),Realme | X50 5G,8.0,128.0,4200.0,6.57,120.0,30.0,64.0,202.0,7.0,2020.0,1,0,Qualcomm,21945.0
+Tcl,408,Tcl | 408,4.0,128.0,5000.0,6.6,90.0,10.0,50.0,190.0,12.0,2023.0,0,0,MediaTek,6929.2300000000005
+Benco,V82,Benco | V82,3.0,64.0,5000.0,6.52,60.0,,8.0,195.7,,2023.0,0,0,Unisoc,6690.53
+Motorola,Moto G24 Power (256GB),Motorola | Moto G24 Power,8.0,256.0,6000.0,6.56,90.0,30.0,50.0,197.0,12.0,2024.0,0,0,MediaTek,13090.0
+Samsung,Galaxy F55 5G,Samsung | Galaxy F55 5G,8.0,128.0,5000.0,6.7,120.0,45.0,50.0,180.0,4.0,2024.0,1,1,Qualcomm,23100.0
+Xiaomi,Poco F5 (12GB RAM),Xiaomi | Poco F5,12.0,256.0,5000.0,6.67,120.0,67.0,64.0,181.0,4.0,2023.0,1,1,Qualcomm,30415.0
+Samsung,Galaxy Fold 5G,Samsung | Galaxy Fold 5G,12.0,512.0,4235.0,7.3,120.0,15.0,12.0,276.0,7.0,2019.0,1,1,Qualcomm,119350.0
+Honor,X9c,Honor | X9c,12.0,256.0,6600.0,6.78,120.0,66.0,108.0,189.0,4.0,2025.0,1,1,Qualcomm,30799.23
+Apple,iPhone 16 Plus (256GB SG),Apple | iPhone 16 Plus,8.0,256.0,4383.0,6.7,120.0,20.0,48.0,199.0,3.0,2024.0,1,1,Apple,142449.23
+Samsung,Galaxy S20 FE 5G (8GB RAM),Samsung | Galaxy S20 FE 5G,8.0,128.0,4500.0,6.5,120.0,25.0,12.0,190.0,7.0,2020.0,1,1,Qualcomm,33110.0
+Samsung,Galaxy S20 FE 5G,Samsung | Galaxy S20 FE 5G,6.0,128.0,4500.0,6.5,120.0,25.0,12.0,190.0,7.0,2020.0,1,1,Qualcomm,30800.0
+Asus,Rog Phone 7 (16GB+512GB),Asus | Rog Phone 7,16.0,512.0,6000.0,6.78,165.0,65.0,50.0,239.0,4.0,2023.0,1,1,Qualcomm,74689.23
+Xiaomi,Redmi Note 9 Pro 5G (256GB),Xiaomi | Redmi Note 9 Pro 5G,8.0,256.0,4820.0,6.67,120.0,33.0,108.0,215.0,8.0,2020.0,1,0,Qualcomm,24640.0
+Xiaomi,Redmi Note 9 Pro 5G (8GB RAM),Xiaomi | Redmi Note 9 Pro 5G,8.0,128.0,4820.0,6.67,120.0,33.0,108.0,215.0,8.0,2020.0,1,0,Qualcomm,22330.0
+Tecno,Camon iACE2,Tecno | Camon iACE2,2.0,32.0,3050.0,5.5,60.0,,13.0,150.0,12.0,2019.0,0,0,MediaTek,6275.5
+Xiaomi,Redmi Note 9 Pro 5G,Xiaomi | Redmi Note 9 Pro 5G,6.0,128.0,4820.0,6.67,120.0,33.0,108.0,215.0,8.0,2020.0,1,0,Qualcomm,20790.0
+Infinix,Note 50,Infinix | Note 50,8.0,256.0,5200.0,6.78,144.0,45.0,50.0,199.0,6.0,2025.0,0,1,MediaTek,20019.23
+Vivo,iQOO 7 (12GB),Vivo | iQOO 7,12.0,256.0,4000.0,6.62,120.0,120.0,48.0,209.5,5.0,2021.0,1,1,Qualcomm,46970.0
+Vivo,iQOO 7 (256GB),Vivo | iQOO 7,8.0,256.0,4000.0,6.62,120.0,120.0,48.0,209.5,5.0,2021.0,1,1,Qualcomm,42350.0
+Vivo,iQOO 7,Vivo | iQOO 7,8.0,128.0,4000.0,6.62,120.0,120.0,48.0,209.5,5.0,2021.0,1,1,Qualcomm,34650.0
+Samsung,Galaxy A22 5G,Samsung | Galaxy A22 5G,4.0,64.0,5000.0,6.6,90.0,15.0,48.0,203.0,7.0,2021.0,1,0,MediaTek,14630.0
+Sony,Xperia 10,Sony | Xperia 10,3.0,64.0,2870.0,6.0,60.0,18.0,13.0,162.0,14.0,2019.0,0,0,Qualcomm,26172.3
+Apple,iPhone SE 2022 (256GB),Apple | iPhone SE 2022,4.0,256.0,2018.0,4.7,60.0,20.0,12.0,144.0,5.0,2022.0,1,0,Apple,50050.0
+Apple,iPhone SE 2022 (128GB),Apple | iPhone SE 2022,4.0,128.0,2018.0,4.7,60.0,20.0,12.0,144.0,5.0,2022.0,1,0,Apple,42350.0
+Oneplus,9RT 5G (12GB RAM),Oneplus | 9RT 5G,12.0,256.0,4500.0,6.62,120.0,65.0,50.0,198.5,5.0,2021.0,1,1,Qualcomm,36190.0
+Oneplus,9RT 5G (256GB),Oneplus | 9RT 5G,8.0,256.0,4500.0,6.62,120.0,65.0,50.0,198.5,5.0,2021.0,1,1,Qualcomm,35420.0
+We,L9,We | L9,1.0,8.0,2500.0,5.5,,,5.0,159.7,,2019.0,0,0,Qualcomm,4612.3
+Honor,Magic7 Pro,Honor | Magic7 Pro,12.0,256.0,5850.0,6.8,120.0,100.0,200.0,223.0,3.0,2024.0,1,1,Qualcomm,78155.0
+Xiaomi,Redmi Note 11 Pro Plus 5G (8GB RAM),Xiaomi | Redmi Note 11 Pro Plus 5G,8.0,128.0,4500.0,6.67,120.0,120.0,108.0,202.0,6.0,2021.0,1,1,Qualcomm,21560.0
+Vivo,iQOO 9 (China),Vivo | iQOO 9,8.0,128.0,4700.0,6.78,120.0,120.0,50.0,206.0,4.0,2022.0,1,1,Qualcomm,47740.0
+Motorola,Moto E4 Plus,Motorola | Moto E4 Plus,3.0,16.0,5000.0,5.5,,15.0,13.0,198.0,28.0,2020.0,0,0,MediaTek,9232.300000000001
+Xiaomi,13 Ultra (16GB+1TB),Xiaomi | 13 Ultra,16.0,1024.0,5000.0,6.73,120.0,90.0,50.0,227.0,4.0,2023.0,1,1,Qualcomm,94710.0
+Xiaomi,13 Ultra (16GB+512GB),Xiaomi | 13 Ultra,16.0,512.0,5000.0,6.73,120.0,90.0,50.0,227.0,4.0,2023.0,1,1,Qualcomm,83160.0
+Xiaomi,Poco X5 Pro 5G (8GB+256GB),Xiaomi | Poco X5 Pro 5G,8.0,256.0,5000.0,6.67,120.0,67.0,108.0,181.0,6.0,2023.0,1,1,Qualcomm,22022.0
+Nokia,9 PureView,Nokia | 9 PureView,6.0,128.0,3320.0,5.99,,18.0,12.0,172.0,10.0,2019.0,0,1,Qualcomm,46192.3
+Meizu,16T Pro,Meizu | 16T Pro,8.0,256.0,4400.0,6.5,60.0,24.0,12.0,165.0,7.0,2019.0,0,1,Qualcomm,25410.0
+Xiaomi,Redmi Note 10 Pro (108MP Edition),Xiaomi | Redmi Note 10 Pro,6.0,128.0,5020.0,6.67,120.0,33.0,108.0,193.0,8.0,2021.0,0,1,Qualcomm,22329.23
+Vivo,iQOO Z6 Pro (8GB RAM),Vivo | iQOO Z6 Pro,8.0,128.0,4700.0,6.44,90.0,66.0,64.0,180.0,6.0,2022.0,1,1,Qualcomm,31955.0
+Tecno,Spark 6 Go (64GB),Tecno | Spark 6 Go,3.0,64.0,5000.0,6.52,,,13.0,193.0,12.0,2021.0,0,0,MediaTek,7692.3
+Tecno,Camon iSky2 (32GB),Tecno | Camon iSky2,3.0,32.0,3050.0,5.5,,,13.0,,,2019.0,0,0,MediaTek,7692.3
+Tecno,Camon iSky2,Tecno | Camon iSky2,2.0,16.0,3050.0,5.5,,,13.0,,,2019.0,0,0,MediaTek,8462.300000000001
+Samsung,Galaxy A15 5G (8GB+256GB),Samsung | Galaxy A15 5G,8.0,256.0,5000.0,6.5,90.0,25.0,50.0,200.0,6.0,2023.0,1,1,MediaTek,27565.23
+Walton,Primo F9,Walton | Primo F9,1.0,16.0,2500.0,5.45,,,5.0,180.0,,2019.0,0,0,Unknown,3849.23
+Honor,200 (16GB+512GB),Honor | 200,16.0,512.0,5200.0,6.7,120.0,100.0,50.0,187.0,4.0,2024.0,1,1,Qualcomm,65835.0
+Honor,200 (16GB RAM),Honor | 200,16.0,256.0,5200.0,6.7,120.0,100.0,50.0,187.0,4.0,2024.0,1,1,Qualcomm,55825.0
+Honor,200 (12GB RAM),Honor | 200,12.0,256.0,5200.0,6.7,120.0,100.0,50.0,187.0,4.0,2024.0,1,1,Qualcomm,30030.0
+Lg,V50 ThinQ 5G,Lg | V50 ThinQ 5G,6.0,128.0,4000.0,6.4,60.0,18.0,16.0,183.0,7.0,2019.0,1,1,Qualcomm,69292.3
+Nokia,C1,Nokia | C1,1.0,16.0,2500.0,5.45,,,5.0,155.0,,2019.0,0,0,Unknown,5004.2300000000005
+Lg,Q60,Lg | Q60,3.0,64.0,3500.0,6.26,60.0,,16.0,172.0,12.0,2019.0,0,0,MediaTek,11550.0
+Lg,W30 Pro,Lg | W30 Pro,4.0,64.0,4050.0,6.22,60.0,18.0,13.0,172.0,14.0,2019.0,0,0,Qualcomm,13090.0
+Vivo,iQOO 13,Vivo | iQOO 13,12.0,256.0,6150.0,6.82,144.0,120.0,50.0,207.0,3.0,2024.0,1,1,Qualcomm,55440.0
+Asus,ROG Phone II ZS660KL,Asus | ROG Phone II ZS660KL,8.0,128.0,6000.0,6.59,120.0,30.0,48.0,240.0,7.0,2019.0,0,1,Qualcomm,40040.0
+Xiaomi,Mi Note 10,Xiaomi | Mi Note 10,6.0,128.0,5260.0,6.47,60.0,30.0,108.0,208.0,8.0,2019.0,0,1,Qualcomm,29645.0
+Vivo,X50 Pro Plus,Vivo | X50 Pro Plus,8.0,128.0,4350.0,6.56,120.0,44.0,50.0,181.5,7.0,2020.0,1,1,Qualcomm,50820.0
+Itel,A26,Itel | A26,2.0,32.0,3020.0,5.7,60.0,,5.0,,,2021.0,0,0,Unisoc,4766.3
+Honor,X10 5G,Honor | X10 5G,6.0,64.0,4300.0,6.63,90.0,22.5,40.0,203.0,7.0,2020.0,1,0,HiSilicon Kirin,18480.0
+Oppo,A92s,Oppo | A92s,6.0,128.0,4000.0,6.57,120.0,18.0,48.0,184.0,7.0,2020.0,1,0,MediaTek,20790.0
+Infinix,Hot 50 Pro Plus 4G,Infinix | Hot 50 Pro Plus 4G,8.0,256.0,5000.0,6.78,120.0,33.0,50.0,162.0,6.0,2024.0,0,1,MediaTek,17709.23
+Infinix,Hot 50 Pro 4G,Infinix | Hot 50 Pro 4G,8.0,128.0,5000.0,6.78,120.0,33.0,50.0,190.0,6.0,2024.0,0,1,MediaTek,14629.23
+Asus,Zenfone Max Shot (ZB634KL),Asus | Zenfone Max Shot,4.0,64.0,4000.0,6.26,60.0,10.0,12.0,165.0,,2019.0,0,0,Qualcomm,23092.3
+Google,Pixel 3a XL,Google | Pixel 3a XL,4.0,64.0,3700.0,6.0,,18.0,12.2,167.0,10.0,2019.0,0,1,Qualcomm,15015.0
+Samsung,Galaxy Note10 Plus 5G,Samsung | Galaxy Note10 Plus 5G,12.0,256.0,4300.0,6.8,,45.0,12.0,198.0,7.0,2019.0,1,1,Samsung Exynos,56980.0
+Samsung,Galaxy S20 Plus 5G,Samsung | Galaxy S20 Plus 5G,8.0,128.0,4500.0,6.7,120.0,25.0,12.0,188.0,7.0,2020.0,1,1,Samsung Exynos,60060.0
+Asus,ROG Phone 3 ZS661KS,Asus | ROG Phone 3 ZS661KS,12.0,128.0,6000.0,6.59,144.0,30.0,64.0,240.0,7.0,2020.0,1,1,Qualcomm,41580.0
+Vivo,V50e,Vivo | V50e,8.0,128.0,5600.0,6.77,120.0,90.0,50.0,186.0,4.0,2025.0,1,1,MediaTek,28490.0
+Motorola,G8 Plus,Motorola | G8 Plus,4.0,64.0,4000.0,6.3,60.0,15.0,48.0,188.0,11.0,2019.0,0,0,Qualcomm,12859.0
+Motorola,One Macro,Motorola | One Macro,4.0,64.0,4000.0,6.2,60.0,10.0,13.0,186.0,12.0,2019.0,0,0,MediaTek,9239.23
+Xiaomi,Redmi Note 14 Pro Plus (512GB),Xiaomi | Redmi Note 14 Pro Plus,12.0,512.0,6200.0,6.67,120.0,90.0,50.0,210.8,4.0,2024.0,1,1,Qualcomm,34650.0
+Xiaomi,Redmi Note 14 Pro (256GB),Xiaomi | Redmi Note 14 Pro,8.0,256.0,5500.0,6.67,120.0,45.0,50.0,190.0,4.0,2024.0,1,1,MediaTek,25025.0
+Vivo,X200,Vivo | X200,16.0,512.0,5800.0,6.67,120.0,90.0,50.0,197.0,3.0,2024.0,1,1,MediaTek,107799.23
+Oppo,K12 Plus,Oppo | K12 Plus,12.0,256.0,6400.0,6.7,120.0,80.0,50.0,192.0,4.0,2024.0,1,1,Qualcomm,36960.0
+Samsung,Galaxy Z Fold5 (512GB),Samsung | Galaxy Z Fold5,12.0,512.0,4400.0,7.6,120.0,25.0,50.0,253.0,4.0,2023.0,1,1,Qualcomm,100100.0
+Lava,Agni 3,Lava | Agni 3,8.0,128.0,5000.0,6.78,120.0,66.0,50.0,212.0,4.0,2024.0,1,1,MediaTek,18472.3
+Samsung,Galaxy A16,Samsung | Galaxy A16,6.0,128.0,5000.0,6.7,90.0,25.0,50.0,200.0,5.0,2025.0,1,1,Samsung Exynos,17709.23
+Xiaomi,Redmi Note 14 Pro (12GB RAM),Xiaomi | Redmi Note 14 Pro,12.0,256.0,5500.0,6.67,120.0,45.0,50.0,190.0,4.0,2024.0,1,1,MediaTek,25410.0
+Zte,nubia Red Magic 9 Pro Plus,Zte | nubia Red Magic 9 Pro Plus,16.0,512.0,5500.0,6.8,120.0,165.0,50.0,229.0,4.0,2023.0,1,1,Qualcomm,76615.0
+Xiaomi,Redmi Note 12 (8GB+256GB),Xiaomi | Redmi Note 12,8.0,256.0,5000.0,6.67,120.0,33.0,50.0,186.0,6.0,2023.0,1,1,Qualcomm,17709.23
+Tecno,Spark 30,Tecno | Spark 30,8.0,128.0,5000.0,6.78,90.0,18.0,64.0,,12.0,2024.0,0,0,MediaTek,13859.23
+Apple,iPhone 16 Plus (512GB USA),Apple | iPhone 16 Plus,8.0,512.0,4383.0,6.7,60.0,20.0,48.0,199.0,3.0,2024.0,1,1,Apple,110880.0
+Apple,iPhone 16 Plus (256GB USA),Apple | iPhone 16 Plus,8.0,256.0,4383.0,6.7,60.0,20.0,48.0,199.0,3.0,2024.0,1,1,Apple,89320.0
+Zte,Blade A35,Zte | Blade A35,4.0,64.0,5000.0,6.74,90.0,,8.0,,12.0,2024.0,0,0,Unisoc,6159.2300000000005
+Realme,11X 5G (8GB RAM),Realme | 11X 5G,8.0,128.0,5000.0,6.72,120.0,33.0,64.0,190.0,6.0,2023.0,1,0,MediaTek,19250.0
+Vivo,V30 Pro (12GB+512GB),Vivo | V30 Pro,12.0,512.0,5000.0,6.78,120.0,80.0,50.0,188.0,4.0,2024.0,1,1,MediaTek,48509.23
+Samsung,Galaxy Z Flip6 (512GB ROM),Samsung | Galaxy Z Flip6,12.0,512.0,4000.0,6.7,120.0,25.0,50.0,187.0,4.0,2024.0,1,1,Qualcomm,77000.0
+Samsung,Galaxy Z Flip5 (8GB+512GB),Samsung | Galaxy Z Flip5,8.0,512.0,3700.0,6.7,120.0,25.0,12.0,187.0,4.0,2023.0,1,1,Qualcomm,61600.0
+Xiaomi,Redmi Note 14 Pro Plus,Xiaomi | Redmi Note 14 Pro Plus,12.0,256.0,6200.0,6.67,120.0,90.0,50.0,210.8,4.0,2024.0,1,1,Qualcomm,24640.0
+Infinix,Hot 50i,Infinix | Hot 50i,6.0,128.0,5000.0,6.7,120.0,18.0,48.0,184.0,12.0,2024.0,0,0,MediaTek,10779.23
+Nokia,C12 Pro,Nokia | C12 Pro,2.0,64.0,4000.0,6.3,,10.0,8.0,177.4,28.0,2023.0,0,0,Unisoc,6598.13
+Samsung,Galaxy F15,Samsung | Galaxy F15,6.0,128.0,6000.0,6.6,90.0,25.0,50.0,217.0,6.0,2024.0,1,1,MediaTek,14860.23
+Xiaomi,Redmi 14C (8GB+256GB),Xiaomi | Redmi 14C,8.0,256.0,5160.0,6.88,120.0,18.0,50.0,211.0,12.0,2024.0,0,0,MediaTek,10395.0
+Umidigi,G9A,Umidigi | G9A,4.0,64.0,5000.0,6.75,,10.0,13.0,189.0,28.0,2025.0,0,0,Unisoc,6922.3
+Umidigi,G9T,Umidigi | G9T,4.0,128.0,5000.0,6.75,90.0,18.0,13.0,189.0,12.0,2025.0,0,0,Unisoc,8462.300000000001
+Samsung,Galaxy S25 Ultra,Samsung | Galaxy S25 Ultra,12.0,256.0,5000.0,6.9,120.0,45.0,200.0,218.0,3.0,2025.0,1,1,Qualcomm,153999.23
+Oneplus,Ace (256GB),Oneplus | Ace,8.0,256.0,4500.0,6.7,120.0,150.0,50.0,186.0,5.0,2022.0,1,1,MediaTek,32725.0
+Oneplus,Ace (12GB+256GB),Oneplus | Ace,12.0,256.0,4500.0,6.7,120.0,150.0,50.0,186.0,5.0,2022.0,1,1,MediaTek,34650.0
+Vivo,T3 Ultra,Vivo | T3 Ultra,8.0,128.0,5500.0,6.78,120.0,80.0,50.0,192.0,4.0,2024.0,1,1,MediaTek,35420.0
+Vivo,T3,Vivo | T3,8.0,256.0,5000.0,6.67,120.0,44.0,50.0,185.5,4.0,2024.0,1,1,MediaTek,18479.23
+Xiaomi,Redmi 10A (4GB+64GB),Xiaomi | Redmi 10A,4.0,64.0,5000.0,6.53,,10.0,13.0,194.0,12.0,2022.0,0,0,MediaTek,10009.23
+Xiaomi,Redmi Note 10 Pro (6GB RAM),Xiaomi | Redmi Note 10 Pro,6.0,128.0,5020.0,6.67,120.0,33.0,64.0,192.0,8.0,2021.0,0,1,Qualcomm,20789.23
+Xiaomi,Redmi Note 10 Pro (8GB RAM),Xiaomi | Redmi Note 10 Pro,8.0,128.0,5020.0,6.67,120.0,33.0,64.0,192.0,8.0,2021.0,0,1,Qualcomm,19250.0
+Xiaomi,Redmi A1 (3GB RAM),Xiaomi | Redmi A1,3.0,32.0,5000.0,6.52,,10.0,8.0,192.0,12.0,2022.0,0,0,MediaTek,9239.23
+Samsung,Galaxy A10s,Samsung | Galaxy A10s,2.0,32.0,4000.0,6.2,60.0,,13.0,168.0,12.0,2019.0,0,0,MediaTek,9624.23
+Maximus,G10 Max,Maximus | G10 Max,2.0,16.0,2500.0,6.09,,,8.0,,,2020.0,0,0,Unknown,4234.2300000000005
+Realme,X2 (8GB+128GB),Realme | X2,8.0,128.0,4000.0,6.4,60.0,30.0,64.0,182.0,8.0,2019.0,0,1,Qualcomm,20405.0
+Realme,X2 (128GB),Realme | X2,6.0,128.0,4000.0,6.4,60.0,30.0,64.0,182.0,8.0,2019.0,0,1,Qualcomm,18865.0
+Samsung,Galaxy A03 (4GB+64GB),Samsung | Galaxy A03,4.0,64.0,5000.0,6.5,60.0,,48.0,196.0,12.0,2022.0,0,0,Unisoc,13089.23
+Samsung,Galaxy A03,Samsung | Galaxy A03,3.0,32.0,5000.0,6.5,60.0,,48.0,196.0,12.0,2022.0,0,0,Unisoc,10009.23
+Realme,X2,Realme | X2,6.0,64.0,4000.0,6.4,60.0,30.0,64.0,182.0,8.0,2019.0,0,1,Qualcomm,17325.0
+Xiaomi,Redmi 14C,Xiaomi | Redmi 14C,4.0,128.0,5160.0,6.88,120.0,18.0,50.0,211.0,12.0,2024.0,0,0,MediaTek,10009.23
+Realme,13,Realme | 13,8.0,128.0,5000.0,6.72,120.0,45.0,50.0,190.0,6.0,2024.0,1,0,MediaTek,17401.23
+Huawei,Mate X5,Huawei | Mate X5,16.0,512.0,5060.0,7.85,120.0,66.0,50.0,245.0,7.0,2024.0,1,1,HiSilicon Kirin,150150.0
+We,R4,We | R4,2.0,16.0,2500.0,5.0,60.0,,8.0,159.7,,2019.0,0,0,Unknown,5390.0
+Xiaomi,Redmi Note 12 Pro Plus (12GB RAM),Xiaomi | Redmi Note 12 Pro Plus,12.0,256.0,5000.0,6.67,120.0,120.0,200.0,208.4,6.0,2022.0,1,1,MediaTek,31955.0
+Lava,Iris X9,Lava | Iris X9,2.0,16.0,2500.0,5.5,,,13.0,145.0,,2019.0,0,0,MediaTek,7692.3
+Lava,Iris 702,Lava | Iris 702,1.0,8.0,2000.0,4.5,,,5.0,141.0,,2019.0,0,0,MediaTek,3842.3
+Infinix,Note 12 G96,Infinix | Note 12 G96,8.0,128.0,5000.0,6.7,60.0,33.0,50.0,185.0,12.0,2022.0,0,1,MediaTek,15399.23
+Motorola,Moto G54 (12GB+256GB),Motorola | Moto G54,12.0,256.0,5000.0,6.5,120.0,15.0,50.0,177.0,6.0,2023.0,1,0,MediaTek,16555.0
+Motorola,Moto G54,Motorola | Moto G54,8.0,128.0,5000.0,6.5,120.0,15.0,50.0,177.0,6.0,2023.0,1,0,MediaTek,16170.0
+Oppo,A3 4G,Oppo | A3 4G,6.0,128.0,5100.0,6.67,90.0,45.0,50.0,186.0,6.0,2024.0,0,0,Qualcomm,14622.300000000001
+Walton,Primo NH5,Walton | Primo NH5,1.0,16.0,2500.0,5.7,60.0,,5.0,183.0,28.0,2020.0,0,0,MediaTek,5081.2300000000005
+Symphony,Z50,Symphony | Z50,4.0,64.0,4000.0,6.5,60.0,,13.0,186.0,28.0,2020.0,0,0,MediaTek,8462.300000000001
+Panasonic,Eluga I7 (2019),Panasonic | Eluga I7,2.0,16.0,4000.0,5.45,60.0,,8.0,168.0,,2019.0,0,0,Unknown,9240.0
+Htc,Wildfire E lite,Htc | Wildfire E lite,2.0,32.0,4000.0,5.45,60.0,,8.0,160.0,12.0,2020.0,0,0,MediaTek,8129.66
+Samsung,Galaxy A36,Samsung | Galaxy A36,8.0,128.0,5000.0,6.7,120.0,45.0,50.0,195.0,4.0,2025.0,1,1,Qualcomm,31569.23
+Symphony,V105,Symphony | V105,1.0,8.0,2200.0,5.0,60.0,,5.0,138.0,,2019.0,0,0,MediaTek,3226.3
+Honor,20 Lite,Honor | 20 Lite,4.0,64.0,3400.0,6.21,60.0,10.0,24.0,164.0,12.0,2019.0,0,0,HiSilicon Kirin,22322.3
+Vivo,V15,Vivo | V15,6.0,64.0,4000.0,6.53,,,24.0,189.5,12.0,2019.0,0,0,MediaTek,20012.3
+Oppo,A16e,Oppo | A16e,4.0,64.0,4230.0,6.52,60.0,10.0,13.0,175.0,12.0,2022.0,0,0,MediaTek,10772.300000000001
+Itel,A46,Itel | A46,1.0,16.0,2350.0,5.5,60.0,,8.0,163.0,32.0,2019.0,0,0,MediaTek,5382.3
+Itel,L5503,Itel | L5503,2.0,16.0,2350.0,5.5,60.0,,8.0,155.0,,2019.0,0,0,MediaTek,5382.3
+Tecno,Pouvoir 3 Plus,Tecno | Pouvoir 3 Plus,6.0,64.0,6000.0,6.35,60.0,,13.0,,12.0,2019.0,0,1,MediaTek,10780.0
+Coolpad,Legacy SR,Coolpad | Legacy SR,2.0,16.0,2450.0,5.45,60.0,10.0,8.0,159.0,12.0,2020.0,0,0,MediaTek,4620.0
+Realme,3 Pro (6GB RAM),Realme | 3 Pro,6.0,64.0,4045.0,6.3,60.0,20.0,16.0,172.0,10.0,2019.0,0,0,Qualcomm,13090.0
+Realme,X50t 5G,Realme | X50t 5G,6.0,128.0,4200.0,6.57,120.0,30.0,48.0,194.0,7.0,2020.0,1,0,Qualcomm,20790.0
+Realme,3 Pro,Realme | 3 Pro,4.0,64.0,4045.0,6.3,60.0,20.0,16.0,172.0,10.0,2019.0,0,0,Qualcomm,11550.0
+Vivo,U3,Vivo | U3,4.0,64.0,5000.0,6.53,60.0,18.0,16.0,193.0,11.0,2019.0,0,0,Qualcomm,11550.0
+Vivo,Z1 Pro,Vivo | Z1 Pro,4.0,64.0,5000.0,6.53,60.0,18.0,16.0,201.0,10.0,2019.0,0,0,Qualcomm,14630.0
+Oneplus,13,Oneplus | 13,12.0,256.0,6000.0,6.82,120.0,100.0,50.0,210.0,3.0,2024.0,1,1,Qualcomm,90860.0
+Realme,X50m 5G (8GB RAM),Realme | X50m 5G,8.0,128.0,4200.0,6.57,120.0,30.0,48.0,194.0,7.0,2020.0,1,0,Qualcomm,23100.0
+Realme,X50m 5G,Realme | X50m 5G,6.0,128.0,4200.0,6.57,120.0,30.0,48.0,194.0,7.0,2020.0,1,0,Qualcomm,21560.0
+Coolpad,Cool 5,Coolpad | Cool 5,4.0,64.0,4000.0,6.22,60.0,15.0,13.0,145.0,12.0,2019.0,0,0,MediaTek,7700.0
+Lava,Benco V7,Lava | Benco V7,2.0,16.0,4000.0,6.1,60.0,,8.0,183.0,32.0,2020.0,0,0,Unisoc,5305.3
+Lava,Iris 61,Lava | Iris 61,1.0,16.0,2500.0,5.0,60.0,,5.0,147.0,,2019.0,0,0,Unisoc,3611.3
+Xiaomi,Redmi K70 Ultra,Xiaomi | Redmi K70 Ultra,12.0,256.0,5500.0,6.67,144.0,120.0,50.0,211.0,4.0,2024.0,1,1,MediaTek,39269.23
+Realme,P1 Pro,Realme | P1 Pro,8.0,128.0,5000.0,6.7,120.0,45.0,50.0,217.0,4.0,2024.0,1,1,Qualcomm,21714.0
+Lava,Iris 45,Lava | Iris 45,1.0,8.0,2000.0,5.0,60.0,,5.0,137.1,,2019.0,0,0,MediaTek,4073.3
+Itel,S13 (2020),Itel | S13,1.0,8.0,2400.0,5.5,60.0,,13.0,,,2020.0,0,0,MediaTek,5767.3
+Itel,A33,Itel | A33,1.0,8.0,2200.0,5.0,60.0,,5.0,123.0,32.0,2019.0,0,0,MediaTek,4150.3
+Xiaomi,Black Shark 3,Xiaomi | Black Shark 3,12.0,256.0,4720.0,6.67,90.0,65.0,64.0,222.0,7.0,2020.0,1,1,Qualcomm,38500.0
+Samsung,Galaxy M15,Samsung | Galaxy M15,4.0,128.0,6000.0,6.5,90.0,25.0,50.0,217.0,6.0,2024.0,1,1,MediaTek,13089.23
+Google,Pixel 5,Google | Pixel 5,8.0,128.0,4080.0,6.0,90.0,18.0,12.2,151.0,7.0,2020.0,1,1,Qualcomm,53900.0
+Apple,iPhone 16 Plus,Apple | iPhone 16 Plus,8.0,128.0,4383.0,6.7,60.0,20.0,48.0,199.0,3.0,2024.0,1,1,Apple,127049.23
+Symphony,Z12,Symphony | Z12,2.0,16.0,3500.0,6.09,60.0,,13.0,176.0,,2019.0,0,0,MediaTek,6152.3
+Google,Pixel 4a,Google | Pixel 4a,6.0,128.0,3140.0,5.81,60.0,18.0,12.2,143.0,8.0,2020.0,0,1,Qualcomm,18480.0
+Symphony,i68,Symphony | i68,1.5,16.0,2000.0,5.45,60.0,,8.0,168.0,,2019.0,0,0,MediaTek,4612.3
+Samsung,Galaxy Z Flip6,Samsung | Galaxy Z Flip6,12.0,256.0,4000.0,6.7,120.0,25.0,50.0,187.0,4.0,2024.0,1,1,Qualcomm,123199.23
+Htc,Wildfire X,Htc | Wildfire X,4.0,128.0,3300.0,6.2,60.0,10.0,12.0,160.0,12.0,2019.0,0,0,MediaTek,12320.0
+Vivo,iQOO Neo9s Pro Plus,Vivo | iQOO Neo9s Pro Plus,12.0,256.0,5500.0,6.78,144.0,120.0,50.0,190.0,4.0,2024.0,1,1,Qualcomm,36959.23
+Oppo,A3,Oppo | A3,6.0,128.0,5100.0,6.67,90.0,45.0,50.0,186.0,6.0,2024.0,0,0,Qualcomm,14622.300000000001
+Xiaomi,Redmi Note 14 Pro,Xiaomi | Redmi Note 14 Pro,8.0,256.0,5500.0,6.67,120.0,45.0,200.0,180.0,6.0,2025.0,0,1,MediaTek,23099.23
+Infinix,Hot 8,Infinix | Hot 8,2.0,32.0,5000.0,6.52,60.0,,13.0,179.0,12.0,2019.0,0,0,MediaTek,6768.3
+Infinix,Smart 3 Plus,Infinix | Smart 3 Plus,2.0,32.0,3500.0,6.2,60.0,,13.0,148.0,,2019.0,0,0,MediaTek,7315.0
+Xiaomi,Poco F4 GT (12GB/256GB),Xiaomi | Poco F4 GT,12.0,256.0,4700.0,6.67,120.0,120.0,64.0,210.0,4.0,2022.0,1,1,Qualcomm,47740.0
+Infinix,Smart 4,Infinix | Smart 4,2.0,32.0,4000.0,6.6,60.0,,8.0,183.0,12.0,2019.0,0,0,MediaTek,6537.3
+Realme,GT5 Pro (16GB/512GB),Realme | GT5 Pro,16.0,512.0,5400.0,6.78,144.0,100.0,50.0,218.0,4.0,2023.0,1,1,Qualcomm,60830.0
+Realme,GT NEO 3T (8GB/256GB),Realme | GT NEO 3T,8.0,256.0,5000.0,6.62,120.0,80.0,64.0,194.5,7.0,2022.0,1,1,Qualcomm,35420.0
+Huawei,Y8p,Huawei | Y8p,6.0,128.0,4000.0,6.3,60.0,10.0,48.0,163.0,12.0,2020.0,0,1,HiSilicon Kirin,19634.23
+Realme,C21Y (4GB/64GB),Realme | C21Y,4.0,64.0,5000.0,6.5,60.0,,13.0,200.0,12.0,2021.0,0,0,Unisoc,10772.300000000001
+Oppo,F27 Pro Plus,Oppo | F27 Pro Plus,8.0,128.0,5000.0,6.7,120.0,67.0,64.0,177.0,6.0,2024.0,1,1,MediaTek,23485.0
+Samsung,Galaxy A30,Samsung | Galaxy A30,4.0,64.0,4000.0,6.4,60.0,15.0,16.0,165.0,14.0,2019.0,0,1,Samsung Exynos,16162.300000000001
+Itel,Vision 5,Itel | Vision 5,3.0,32.0,5000.0,6.6,,18.0,8.0,,28.0,2022.0,0,0,Unisoc,7461.3
+Samsung,Galaxy A60,Samsung | Galaxy A60,6.0,128.0,3500.0,6.3,60.0,15.0,32.0,168.0,11.0,2019.0,0,1,Qualcomm,18865.0
+Symphony,i69,Symphony | i69,2.0,32.0,3000.0,5.7,,,8.0,152.0,28.0,2021.0,0,0,Unisoc,5382.3
+Symphony,Helio 40 (8GB RAM),Symphony | Helio 40,8.0,128.0,5000.0,6.67,90.0,18.0,108.0,200.0,12.0,2024.0,0,0,MediaTek,10163.23
+Symphony,Helio 40,Symphony | Helio 40,6.0,128.0,5000.0,6.67,90.0,18.0,108.0,200.0,12.0,2024.0,0,0,MediaTek,9624.23
+Samsung,Galaxy S22 Plus (256GB),Samsung | Galaxy S22 Plus,8.0,256.0,4500.0,6.6,120.0,45.0,50.0,195.0,4.0,2022.0,1,1,Samsung Exynos,66990.0
+Motorola,Moto G24 Power (8GB RAM),Motorola | Moto G24 Power,8.0,128.0,6000.0,6.56,90.0,30.0,50.0,197.0,12.0,2024.0,0,0,MediaTek,12320.0
+Vivo,V40,Vivo | V40,12.0,256.0,5500.0,6.78,120.0,80.0,50.0,190.0,4.0,2024.0,1,1,Qualcomm,48509.23
+Realme,C51s,Realme | C51s,6.0,128.0,5000.0,6.74,90.0,33.0,50.0,182.0,12.0,2024.0,0,0,Unisoc,12312.300000000001
+Honor,8S,Honor | 8S,2.0,32.0,3200.0,5.71,60.0,,13.0,146.0,12.0,2019.0,0,0,MediaTek,8084.2300000000005
+Realme,X3,Realme | X3,8.0,128.0,4200.0,6.6,120.0,30.0,64.0,202.0,7.0,2020.0,0,0,Qualcomm,22715.0
+Huawei,Y7 Pro (2019),Huawei | Y7 Pro,3.0,32.0,4000.0,6.26,60.0,10.0,13.0,168.0,14.0,2019.0,0,0,Qualcomm,10779.23
+Oneplus,8,Oneplus | 8,8.0,128.0,4300.0,6.55,90.0,30.0,48.0,180.0,7.0,2020.0,1,1,Qualcomm,46192.3
+Xiaomi,Redmi K60 (12GB RAM),Xiaomi | Redmi K60,12.0,256.0,5500.0,6.67,120.0,67.0,64.0,204.0,4.0,2023.0,1,1,Qualcomm,46200.0
+Samsung,Galaxy M14 4G (6GB/128GB),Samsung | Galaxy M14 4G,6.0,128.0,5000.0,6.7,90.0,25.0,50.0,194.0,6.0,2024.0,0,0,Qualcomm,14629.23
+Samsung,Galaxy M14 4G,Samsung | Galaxy M14 4G,4.0,64.0,5000.0,6.7,90.0,25.0,50.0,194.0,6.0,2024.0,0,0,Qualcomm,11549.23
+Xiaomi,Redmi Note 13 Pro Plus 5G,Xiaomi | Redmi Note 13 Pro Plus 5G,8.0,256.0,5000.0,6.67,120.0,120.0,200.0,204.5,4.0,2023.0,1,1,MediaTek,35805.0
+Samsung,Galaxy A01,Samsung | Galaxy A01,2.0,16.0,3000.0,5.7,60.0,,13.0,149.0,12.0,2020.0,0,0,Qualcomm,5389.2300000000005
+Lg,Velvet,Lg | Velvet,6.0,128.0,4300.0,6.8,60.0,25.0,48.0,180.0,10.0,2020.0,0,1,Qualcomm,18480.0
+Honor,200,Honor | 200,12.0,512.0,5200.0,6.7,120.0,100.0,50.0,187.0,4.0,2024.0,1,1,Qualcomm,40809.23
+Realme,C63 (8GB RAM),Realme | C63,8.0,128.0,5000.0,6.74,90.0,45.0,50.0,189.0,12.0,2024.0,0,0,Unisoc,12319.23
+Oppo,Reno11 Pro (512GB),Oppo | Reno11 Pro,12.0,512.0,4600.0,6.7,120.0,80.0,50.0,181.0,4.0,2024.0,1,1,MediaTek,34642.3
+Huawei,Mate 30 Pro,Huawei | Mate 30 Pro,8.0,128.0,4500.0,6.53,90.0,40.0,40.0,198.0,7.0,2019.0,0,1,HiSilicon Kirin,76999.23
+Realme,C63,Realme | C63,6.0,128.0,5000.0,6.74,90.0,45.0,50.0,189.0,12.0,2024.0,0,0,Unisoc,11549.23
+Motorola,Moto G04,Motorola | Moto G04,8.0,128.0,5000.0,6.56,90.0,15.0,16.0,178.8,12.0,2024.0,0,0,Unisoc,9240.0
+Oneplus,7T Pro 5G McLaren,Oneplus | 7T Pro 5G McLaren,12.0,256.0,4085.0,6.67,90.0,30.0,48.0,206.0,7.0,2019.0,1,1,Qualcomm,35420.0
+Tecno,Pouvoir 4,Tecno | Pouvoir 4,3.0,32.0,6000.0,7.0,60.0,18.0,13.0,,12.0,2020.0,0,0,MediaTek,9232.300000000001
+Tecno,Spark 7 (4GB RAM),Tecno | Spark 7,4.0,64.0,6000.0,6.5,60.0,10.0,16.0,,12.0,2021.0,0,0,MediaTek,10002.300000000001
+Tecno,Spark 7,Tecno | Spark 7,3.0,64.0,6000.0,6.5,60.0,10.0,16.0,,12.0,2021.0,0,0,MediaTek,8854.23
+Realme,9 Pro Plus Free Fire Limited Edition,Realme | 9 Pro Plus Free Fire Limited Edition,8.0,128.0,4500.0,6.4,90.0,60.0,50.0,182.0,6.0,2022.0,1,1,MediaTek,26180.0
+Motorola,Moto E22s,Motorola | Moto E22s,4.0,64.0,5000.0,6.5,90.0,10.0,16.0,185.0,12.0,2022.0,0,0,MediaTek,11549.23
+Samsung,Galaxy M02s,Samsung | Galaxy M02s,4.0,64.0,5000.0,6.5,60.0,15.0,13.0,196.0,14.0,2021.0,0,0,Qualcomm,10009.23
+Oppo,Reno6 5G,Oppo | Reno6 5G,8.0,128.0,4300.0,6.43,90.0,65.0,64.0,182.0,6.0,2021.0,1,1,MediaTek,27719.23
+Xiaomi,Mi 11 Lite 5G (8GB RAM),Xiaomi | Mi 11 Lite 5G,8.0,128.0,4250.0,6.55,90.0,33.0,64.0,159.0,5.0,2021.0,1,1,Qualcomm,23870.0
+Xiaomi,Mi 11 Lite 5G,Xiaomi | Mi 11 Lite 5G,6.0,128.0,4250.0,6.55,90.0,33.0,64.0,159.0,5.0,2021.0,1,1,Qualcomm,20020.0
+Oneplus,Nord CE 2 Lite 5G (8GB RAM),Oneplus | Nord CE 2 Lite 5G,8.0,128.0,5000.0,6.59,120.0,33.0,64.0,195.0,6.0,2022.0,1,0,Qualcomm,22792.0
+Oneplus,Nord CE 2 Lite 5G,Oneplus | Nord CE 2 Lite 5G,6.0,128.0,5000.0,6.59,120.0,33.0,64.0,195.0,6.0,2022.0,1,0,Qualcomm,23100.0
+Oneplus,8 Pro,Oneplus | 8 Pro,12.0,256.0,4510.0,6.78,120.0,30.0,48.0,199.0,7.0,2020.0,1,1,Qualcomm,73142.3
+Huawei,Mate 40 Pro,Huawei | Mate 40 Pro,8.0,256.0,4400.0,6.76,90.0,66.0,50.0,212.0,5.0,2020.0,1,1,HiSilicon Kirin,65450.0
+Xiaomi,Poco X2,Xiaomi | Poco X2,6.0,128.0,4500.0,6.67,120.0,27.0,64.0,208.0,8.0,2020.0,0,0,Qualcomm,15400.0
+Xiaomi,Redmi K20 Pro,Xiaomi | Redmi K20 Pro,8.0,256.0,4000.0,6.39,,,48.0,191.0,7.0,2019.0,0,1,Qualcomm,38499.23
+Xiaomi,Mi 11 Ultra (12GB/512GB),Xiaomi | Mi 11 Ultra,12.0,512.0,5000.0,6.81,120.0,67.0,50.0,234.0,5.0,2021.0,1,1,Qualcomm,100100.0
+Xiaomi,Mi 11 Ultra (12GB RAM),Xiaomi | Mi 11 Ultra,12.0,256.0,5000.0,6.81,120.0,67.0,50.0,234.0,5.0,2021.0,1,1,Qualcomm,67760.0
+Xiaomi,Mi 11 Ultra,Xiaomi | Mi 11 Ultra,8.0,256.0,5000.0,6.81,120.0,67.0,50.0,234.0,5.0,2021.0,1,1,Qualcomm,63910.0
+Samsung,Galaxy Note 10 (256B),Samsung | Galaxy Note 10,8.0,256.0,3500.0,6.3,,25.0,12.0,168.0,7.0,2019.0,0,1,Samsung Exynos,51590.0
+Vivo,Y50,Vivo | Y50,8.0,128.0,5000.0,6.53,,15.0,13.0,197.0,11.0,2020.0,0,0,Qualcomm,15392.300000000001
+Tecno,Spark 5 Air,Tecno | Spark 5 Air,2.0,32.0,5000.0,7.0,,,13.0,,12.0,2020.0,0,0,MediaTek,7692.3
+Asus,ROG Phone 2 (12GB/512GB),Asus | ROG Phone 2,12.0,512.0,6000.0,6.59,120.0,30.0,48.0,240.0,7.0,2019.0,0,1,Qualcomm,66220.0
+Asus,ROG Phone 2,Asus | ROG Phone 2,8.0,128.0,6000.0,6.59,120.0,30.0,48.0,240.0,7.0,2019.0,0,1,Qualcomm,40040.0
+Xiaomi,Redmi 11 Prime 5G,Xiaomi | Redmi 11 Prime 5G,4.0,64.0,5000.0,6.58,90.0,18.0,50.0,200.0,7.0,2022.0,1,0,MediaTek,13860.0
+Realme,Narzo 30,Realme | Narzo 30,6.0,128.0,5000.0,6.5,90.0,30.0,48.0,192.0,12.0,2021.0,0,0,MediaTek,15392.300000000001
+Tecno,Camon 19,Tecno | Camon 19,6.0,128.0,5000.0,6.8,,18.0,64.0,198.0,12.0,2022.0,0,0,MediaTek,13082.300000000001
+Huawei,P60 Art,Huawei | P60 Art,12.0,512.0,5100.0,6.67,120.0,88.0,48.0,206.0,4.0,2023.0,0,1,Qualcomm,111650.0
+Samsung,Galaxy M13 5G (6GB/128GB),Samsung | Galaxy M13 5G,6.0,128.0,5000.0,6.5,90.0,15.0,50.0,195.0,7.0,2022.0,1,0,MediaTek,14091.0
+Samsung,Galaxy M13 5G,Samsung | Galaxy M13 5G,4.0,64.0,5000.0,6.5,90.0,15.0,50.0,195.0,7.0,2022.0,1,0,MediaTek,13475.0
+Oneplus,7 (12GB RAM),Oneplus | 7,12.0,256.0,3700.0,6.41,60.0,20.0,48.0,182.0,7.0,2019.0,0,1,Qualcomm,42350.0
+Oneplus,7,Oneplus | 7,8.0,256.0,3700.0,6.41,60.0,20.0,48.0,182.0,7.0,2019.0,0,1,Qualcomm,37730.0
+Nokia,1 Plus,Nokia | 1 Plus,1.0,16.0,2500.0,5.45,,,8.0,138.4,28.0,2019.0,0,0,MediaTek,5389.2300000000005
+Nokia,4.2,Nokia | 4.2,3.0,32.0,3000.0,5.71,,,13.0,161.0,12.0,2019.0,0,0,Qualcomm,10779.23
+Nokia,7.2,Nokia | 7.2,4.0,64.0,3500.0,6.3,,10.0,48.0,180.0,14.0,2019.0,0,0,Qualcomm,24632.3
+Nokia,6300 4G,Nokia | 6300 4G,0.5,4.0,1500.0,2.4,,,0.3,104.7,,2021.0,0,0,Qualcomm,4080.23
+Xiaomi,Redmi Note 7 (6GB/128GB),Xiaomi | Redmi Note 7,6.0,128.0,4000.0,6.3,,18.0,48.0,185.0,14.0,2019.0,0,0,Qualcomm,16939.23
+Xiaomi,Redmi Note 7 (4GB/128GB),Xiaomi | Redmi Note 7,4.0,128.0,4000.0,6.3,,18.0,48.0,185.0,14.0,2019.0,0,0,Qualcomm,16939.23
+Xiaomi,Redmi Note 7 (4GB/64GB),Xiaomi | Redmi Note 7,4.0,64.0,4000.0,6.3,,18.0,48.0,185.0,14.0,2019.0,0,0,Qualcomm,15399.23
+Nokia,G10 (4GB/64GB),Nokia | G10,4.0,64.0,5050.0,6.52,,10.0,13.0,197.0,12.0,2021.0,0,0,MediaTek,11550.0
+Nokia,G10,Nokia | G10,3.0,32.0,5050.0,6.52,,10.0,13.0,197.0,12.0,2021.0,0,0,MediaTek,10394.23
+Nokia,8 V 5G UW,Nokia | 8 V 5G UW,6.0,64.0,4500.0,6.81,,18.0,64.0,230.0,7.0,2020.0,1,0,Qualcomm,14245.0
+Realme,5s,Realme | 5s,4.0,64.0,5000.0,6.5,,10.0,48.0,198.0,11.0,2019.0,0,0,Qualcomm,11165.0
+Realme,V5 5G,Realme | V5 5G,6.0,128.0,5000.0,6.5,90.0,30.0,48.0,194.0,7.0,2020.0,1,0,MediaTek,15785.0
+Realme,X50 5G,Realme | X50 5G,6.0,64.0,4200.0,6.57,120.0,30.0,64.0,202.0,7.0,2020.0,1,0,Qualcomm,17710.0
+Motorola,Edge Plus,Motorola | Edge Plus,12.0,256.0,5000.0,6.7,90.0,18.0,108.0,203.0,7.0,2020.0,1,1,Qualcomm,26950.0
+Walton,Primo GH11,Walton | Primo GH11,2.0,32.0,4200.0,6.52,,,13.0,196.0,12.0,2022.0,0,0,MediaTek,7699.2300000000005
+Realme,X7 Pro,Realme | X7 Pro,8.0,128.0,4500.0,6.55,120.0,65.0,64.0,184.0,7.0,2020.0,1,1,MediaTek,28875.0
+Infinix,Smart 6 HD,Infinix | Smart 6 HD,2.0,32.0,5000.0,6.6,,,8.0,,12.0,2022.0,0,0,MediaTek,7314.2300000000005
+Symphony,i71,Symphony | i71,2.0,32.0,3000.0,5.7,,,5.0,152.0,28.0,2022.0,0,0,Unisoc,5698.0
+Xiaomi,Mi 11X,Xiaomi | Mi 11X,8.0,128.0,4520.0,6.67,120.0,33.0,48.0,196.0,7.0,2021.0,1,1,Qualcomm,33109.23
+Xiaomi,Mi 11X,Xiaomi | Mi 11X,6.0,128.0,4520.0,6.67,120.0,33.0,48.0,196.0,7.0,2021.0,1,1,Qualcomm,30799.23
+Walton,Primo HM7,Walton | Primo HM7,3.0,32.0,4900.0,6.52,,,13.0,191.0,12.0,2022.0,0,0,Unisoc,9239.23
+Motorola,Moto E7 Power,Motorola | Moto E7 Power,4.0,64.0,5000.0,6.51,60.0,10.0,13.0,200.0,12.0,2021.0,0,0,MediaTek,10779.23
+Nokia,C2 2nd edition,Nokia | C2 2nd edition,2.0,32.0,2400.0,5.7,,,5.0,180.0,,2022.0,0,0,Unknown,6544.2300000000005
+Infinix,Hot 10s (6GB RAM),Infinix | Hot 10s,6.0,128.0,6000.0,6.82,90.0,10.0,48.0,211.0,12.0,2021.0,0,0,MediaTek,11542.300000000001
+Infinix,Hot 10s,Infinix | Hot 10s,4.0,128.0,6000.0,6.82,90.0,10.0,48.0,211.0,12.0,2021.0,0,0,MediaTek,10002.300000000001
+Vivo,V23e,Vivo | V23e,8.0,128.0,4050.0,6.44,,44.0,64.0,172.0,12.0,2021.0,0,1,MediaTek,21552.3
+Honor,Magic V2,Honor | Magic V2,16.0,512.0,5000.0,7.92,120.0,66.0,50.0,231.0,4.0,2023.0,1,1,Qualcomm,107799.23
+Zte,Nubia Neo,Zte | Nubia Neo,8.0,256.0,4500.0,6.6,120.0,22.5,50.0,192.0,6.0,2023.0,1,0,Unisoc,16554.23
+Zte,nubia Red Magic 7S Pro,Zte | nubia Red Magic 7S Pro,18.0,512.0,5000.0,6.8,120.0,135.0,64.0,235.0,4.0,2022.0,1,1,Qualcomm,76615.0
+Xiaomi,Redmi Note 8 2021,Xiaomi | Redmi Note 8 2021,4.0,64.0,4000.0,6.3,,18.0,48.0,190.0,12.0,2021.0,0,0,MediaTek,13859.23
+Oneplus,Nord CE 5G,Oneplus | Nord CE 5G,8.0,128.0,4500.0,6.43,90.0,30.0,64.0,170.0,8.0,2021.0,1,1,Qualcomm,26942.3
+Xiaomi,Poco F4 GT,Xiaomi | Poco F4 GT,8.0,128.0,4700.0,6.67,120.0,120.0,64.0,210.0,4.0,2022.0,1,1,Qualcomm,34650.0
+Vivo,iQOO Z6 Pro,Vivo | iQOO Z6 Pro,6.0,128.0,4700.0,6.44,90.0,66.0,64.0,180.0,6.0,2022.0,1,1,Qualcomm,23485.0
+Oneplus,Ace,Oneplus | Ace,8.0,128.0,4500.0,6.7,120.0,150.0,50.0,186.0,5.0,2022.0,1,1,MediaTek,30030.0
+Xiaomi,Redmi Note 11 SE,Xiaomi | Redmi Note 11 SE,6.0,64.0,5000.0,6.5,90.0,18.0,48.0,190.0,7.0,2022.0,0,0,MediaTek,12705.0
+Zte,Nubia Red Magic 6S Pro,Zte | Nubia Red Magic 6S Pro,16.0,256.0,5050.0,6.8,165.0,120.0,64.0,215.0,5.0,2021.0,1,1,Qualcomm,53130.0
+Oneplus,9RT 5G,Oneplus | 9RT 5G,8.0,128.0,4500.0,6.62,120.0,65.0,50.0,198.5,5.0,2021.0,1,1,Qualcomm,33110.0
+Realme,GT2 Pro,Realme | GT2 Pro,12.0,256.0,5000.0,6.7,120.0,65.0,50.0,189.0,4.0,2022.0,1,1,Qualcomm,48510.0
+Xiaomi,Redmi Note 12 Pro Plus,Xiaomi | Redmi Note 12 Pro Plus,8.0,256.0,5000.0,6.67,120.0,120.0,200.0,208.4,6.0,2022.0,1,1,MediaTek,27720.0
+Motorola,Moto G13,Motorola | Moto G13,4.0,128.0,5000.0,6.5,90.0,20.0,50.0,170.0,12.0,2023.0,0,0,MediaTek,14245.0
+Zte,Nubia Red Magic 8 Pro Plus,Zte | Nubia Red Magic 8 Pro Plus,16.0,512.0,5000.0,6.8,120.0,165.0,50.0,230.0,4.0,2022.0,1,1,Qualcomm,92400.0
+Vivo,V27 Pro (12GB/256GB),Vivo | V27 Pro,12.0,256.0,4600.0,6.78,120.0,66.0,50.0,182.0,4.0,2023.0,1,1,MediaTek,43890.0
+Vivo,V27 Pro (8GB RAM),Vivo | V27 Pro,8.0,256.0,4600.0,6.78,120.0,66.0,50.0,182.0,4.0,2023.0,1,1,MediaTek,40425.0
+Vivo,V27 Pro,Vivo | V27 Pro,8.0,128.0,4600.0,6.78,120.0,66.0,50.0,182.0,4.0,2023.0,1,1,MediaTek,35035.0
+Oppo,Find X6 Pro (16GB/512GB),Oppo | Find X6 Pro,16.0,512.0,5000.0,6.82,120.0,100.0,50.0,216.0,4.0,2023.0,1,1,Qualcomm,76923.0
+Oppo,Find X6 Pro,Oppo | Find X6 Pro,16.0,256.0,5000.0,6.82,120.0,100.0,50.0,216.0,4.0,2023.0,1,1,Qualcomm,73150.0
+Asus,Zenfone 9,Asus | Zenfone 9,8.0,128.0,4300.0,5.9,120.0,30.0,50.0,169.0,4.0,2022.0,1,1,Qualcomm,53130.0
+Huawei,P60 Pro (12/512GB),Huawei | P60 Pro,12.0,512.0,4815.0,6.67,120.0,88.0,48.0,200.0,4.0,2023.0,0,1,Qualcomm,106260.0
+Huawei,P60 Pro,Huawei | P60 Pro,8.0,256.0,4815.0,6.67,120.0,88.0,48.0,200.0,4.0,2023.0,0,1,Qualcomm,97790.0
+Motorola,Edge 30 (8GB RAM),Motorola | Edge 30,8.0,128.0,4020.0,6.5,144.0,33.0,50.0,155.0,6.0,2022.0,1,1,Qualcomm,32340.0
+Oppo,Reno9 Pro Plus,Oppo | Reno9 Pro Plus,16.0,256.0,4700.0,6.7,120.0,80.0,50.0,192.0,4.0,2022.0,1,1,Qualcomm,54670.0
+Motorola,Edge 30,Motorola | Edge 30,6.0,128.0,4020.0,6.5,144.0,33.0,50.0,155.0,6.0,2022.0,1,1,Qualcomm,28490.0
+Realme,GT Neo 5 240W,Realme | GT Neo 5 240W,16.0,1024.0,4600.0,6.74,144.0,240.0,50.0,199.0,4.0,2023.0,1,1,Qualcomm,65450.0
+Xiaomi,Redmi Note 12 Turbo (12GB RAM),Xiaomi | Redmi Note 12 Turbo,12.0,256.0,5000.0,6.67,120.0,67.0,64.0,181.0,4.0,2023.0,1,1,Qualcomm,39270.0
+Xiaomi,Redmi Note 12 Turbo,Xiaomi | Redmi Note 12 Turbo,8.0,256.0,5000.0,6.67,120.0,67.0,64.0,181.0,4.0,2023.0,1,1,Qualcomm,36190.0
+Motorola,Edge 40,Motorola | Edge 40,8.0,256.0,4400.0,6.55,144.0,68.0,50.0,167.0,6.0,2023.0,1,1,MediaTek,28105.0
+Huawei,Nova 11 Pro,Huawei | Nova 11 Pro,8.0,256.0,4500.0,6.78,120.0,100.0,50.0,188.0,6.0,2023.0,0,1,Qualcomm,56210.0
+Honor,100 Pro (16GB RAM),Honor | 100 Pro,16.0,256.0,5000.0,6.78,120.0,100.0,50.0,195.0,4.0,2023.0,1,1,Qualcomm,57750.0
+Honor,100 Pro,Honor | 100 Pro,12.0,256.0,5000.0,6.78,120.0,100.0,50.0,195.0,4.0,2023.0,1,1,Qualcomm,56210.0
+Huawei,Mate X3,Huawei | Mate X3,12.0,512.0,4800.0,7.85,120.0,66.0,50.0,239.0,4.0,2023.0,1,1,Qualcomm,151690.0
+Tecno,Spark 8C,Tecno | Spark 8C,3.0,64.0,5000.0,6.6,90.0,,13.0,193.0,12.0,2022.0,0,0,Unisoc,10002.300000000001
+Motorola,Moto E32,Motorola | Moto E32,4.0,64.0,5000.0,6.5,90.0,18.0,16.0,184.0,12.0,2022.0,0,0,Unisoc,12319.23
+Vivo,Y02s,Vivo | Y02s,3.0,32.0,5000.0,6.51,60.0,10.0,8.0,182.0,12.0,2022.0,0,0,MediaTek,9701.23
+Vivo,Y21T,Vivo | Y21T,4.0,128.0,5000.0,6.58,90.0,18.0,50.0,182.0,6.0,2022.0,0,0,Qualcomm,15392.300000000001
+Realme,GT5 Pro,Realme | GT5 Pro,12.0,256.0,5400.0,6.78,144.0,100.0,50.0,218.0,4.0,2023.0,1,1,Qualcomm,53515.0
+Motorola,Moto E40,Motorola | Moto E40,4.0,64.0,5000.0,6.5,90.0,10.0,48.0,198.0,,2021.0,0,0,Unisoc,13474.23
+Realme,GT Neo2,Realme | GT Neo2,8.0,128.0,5000.0,6.62,120.0,65.0,64.0,199.8,7.0,2021.0,1,1,Qualcomm,33102.3
+Realme,Narzo 50i,Realme | Narzo 50i,4.0,64.0,5000.0,6.5,60.0,,8.0,195.0,28.0,2021.0,0,0,Unisoc,9617.300000000001
+Tecno,Camon 19 Neo,Tecno | Camon 19 Neo,6.0,128.0,5000.0,6.8,,18.0,48.0,195.0,12.0,2022.0,0,0,MediaTek,12628.0
+Oneplus,Nord N20 SE,Oneplus | Nord N20 SE,4.0,64.0,5000.0,6.56,,33.0,50.0,187.0,12.0,2022.0,0,0,MediaTek,9239.23
+Motorola,Moto G34,Motorola | Moto G34,8.0,128.0,5000.0,6.5,120.0,20.0,50.0,180.0,6.0,2023.0,1,0,Qualcomm,13705.23
+Oneplus,Nord CE 2 5G,Oneplus | Nord CE 2 5G,8.0,128.0,4500.0,6.43,90.0,65.0,64.0,173.0,6.0,2022.0,1,1,MediaTek,27712.3
+Samsung,Galaxy M33,Samsung | Galaxy M33,8.0,128.0,6000.0,6.6,120.0,25.0,50.0,198.0,5.0,2022.0,1,0,Samsung Exynos,30029.23
+Infinix,Note 11 Pro,Infinix | Note 11 Pro,8.0,128.0,5000.0,6.95,120.0,33.0,64.0,209.0,12.0,2021.0,0,0,MediaTek,16547.3
+Realme,C21Y,Realme | C21Y,3.0,32.0,5000.0,6.5,60.0,,13.0,200.0,12.0,2021.0,0,0,Unisoc,10002.300000000001
+Walton,NEXG N71,Walton | NEXG N71,9.0,64.0,5050.0,6.6,90.0,,52.0,202.0,12.0,2023.0,0,0,Unisoc,8854.23
+Walton,NEXG N72,Walton | NEXG N72,4.0,64.0,5010.0,6.8,90.0,10.0,52.0,192.0,12.0,2024.0,0,0,Unisoc,9239.23
+Samsung,Galaxy Z Flip5,Samsung | Galaxy Z Flip5,8.0,256.0,3700.0,6.7,120.0,25.0,12.0,187.0,4.0,2023.0,1,1,Qualcomm,133979.23
+Motorola,Moto G24 Power,Motorola | Moto G24 Power,4.0,128.0,6000.0,6.56,90.0,30.0,50.0,197.0,12.0,2024.0,0,0,MediaTek,10780.0
+Xiaomi,Redmi A3 (128GB),Xiaomi | Redmi A3,6.0,128.0,5000.0,6.71,90.0,10.0,8.0,193.0,12.0,2024.0,0,0,MediaTek,10009.23
+Xiaomi,Redmi Note 11 Pro (8GB RAM),Xiaomi | Redmi Note 11 Pro,8.0,128.0,5000.0,6.67,120.0,67.0,108.0,202.0,12.0,2022.0,0,1,MediaTek,21175.0
+Oppo,A5 (2020),Oppo | A5,4.0,128.0,5000.0,6.5,,10.0,12.0,195.0,11.0,2019.0,0,0,Qualcomm,13852.300000000001
+Infinix,Note 12 2023 (256GB),Infinix | Note 12 2023,8.0,256.0,5000.0,6.7,60.0,33.0,50.0,195.0,6.0,2022.0,0,1,MediaTek,16169.23
+Apple,iPhone 14 Plus (256GB),Apple | iPhone 14 Plus,6.0,256.0,4323.0,6.7,60.0,20.0,12.0,203.0,5.0,2022.0,1,1,Apple,93940.0
+Oppo,A78,Oppo | A78,8.0,256.0,5000.0,6.43,90.0,67.0,50.0,180.0,6.0,2023.0,0,1,Qualcomm,21552.3
+Samsung,Galaxy A15 5G (8GB RAM),Samsung | Galaxy A15 5G,8.0,128.0,5000.0,6.5,90.0,25.0,50.0,200.0,6.0,2023.0,1,1,MediaTek,24023.23
+Xiaomi,Redmi Note 13 Pro Plus 5G (16GB+512GB),Xiaomi | Redmi Note 13 Pro Plus 5G,16.0,512.0,5000.0,6.67,120.0,120.0,200.0,204.5,4.0,2023.0,1,1,MediaTek,40810.0
+Nokia,C22,Nokia | C22,3.0,64.0,5000.0,6.5,,10.0,13.0,190.0,28.0,2023.0,0,0,Unisoc,7699.2300000000005
+Xiaomi,Redmi Note 13 Pro Plus 5G (12GB+512GB),Xiaomi | Redmi Note 13 Pro Plus 5G,12.0,512.0,5000.0,6.67,120.0,120.0,200.0,204.5,4.0,2023.0,1,1,MediaTek,40425.0
+Xiaomi,Poco F5,Xiaomi | Poco F5,8.0,256.0,5000.0,6.67,120.0,67.0,64.0,181.0,4.0,2023.0,1,1,Qualcomm,28489.23
+Symphony,Z60 Plus,Symphony | Z60 Plus,6.0,128.0,5000.0,6.6,90.0,18.0,50.0,190.0,12.0,2023.0,0,0,Unisoc,8700.23
+Xiaomi,Redmi 13C (8GB+256GB),Xiaomi | Redmi 13C,8.0,256.0,5000.0,6.74,90.0,18.0,50.0,192.0,12.0,2023.0,0,0,MediaTek,13089.23
+Xiaomi,Redmi 13C (6GB+128GB),Xiaomi | Redmi 13C,6.0,128.0,5000.0,6.74,90.0,18.0,50.0,192.0,12.0,2023.0,0,0,MediaTek,11549.23
+Oppo,A5 (2020),Oppo | A5,3.0,64.0,5000.0,6.5,,10.0,12.0,195.0,11.0,2019.0,0,0,Qualcomm,11542.300000000001
+Xiaomi,Redmi Note 13 4G (8GB+256GB),Xiaomi | Redmi Note 13 4G,8.0,256.0,5000.0,6.67,120.0,33.0,108.0,188.5,6.0,2024.0,0,1,Qualcomm,17709.23
+Walton,Primo RX8,Walton | Primo RX8,4.0,128.0,4000.0,6.5,,18.0,16.0,189.0,12.0,2021.0,0,0,MediaTek,12011.23
+Symphony,i99,Symphony | i99,2.0,16.0,3500.0,6.09,,,13.0,162.0,28.0,2020.0,0,0,Unisoc,5382.3
+Walton,Primo R8,Walton | Primo R8,4.0,64.0,5000.0,6.5,,10.0,13.0,192.0,12.0,2021.0,0,0,MediaTek,7661.5
+Walton,Orbit Y70,Walton | Orbit Y70,6.0,64.0,5000.0,6.6,120.0,,8.0,186.0,,2023.0,0,0,Unknown,6929.2300000000005
+Realme,7 Pro,Realme | 7 Pro,6.0,128.0,4500.0,6.4,60.0,65.0,64.0,182.0,8.0,2020.0,0,1,Qualcomm,21552.3
+Symphony,Z33,Symphony | Z33,3.0,32.0,5000.0,6.52,,10.0,13.0,190.0,12.0,2021.0,0,0,Unisoc,8077.3
+Realme,11X 5G,Realme | 11X 5G,6.0,128.0,5000.0,6.72,120.0,33.0,64.0,190.0,6.0,2023.0,1,0,MediaTek,16940.0
+Realme,Narzo N55,Realme | Narzo N55,6.0,128.0,5000.0,6.72,90.0,33.0,64.0,189.5,12.0,2023.0,0,0,MediaTek,11934.23
+Samsung,Galaxy A15 5G,Samsung | Galaxy A15 5G,6.0,128.0,5000.0,6.5,90.0,25.0,50.0,200.0,6.0,2023.0,1,1,MediaTek,22637.23
+Asus,Rog Phone 7,Asus | Rog Phone 7,12.0,256.0,6000.0,6.78,165.0,65.0,50.0,239.0,4.0,2023.0,1,1,Qualcomm,66219.23
+Itel,A49 Play,Itel | A49 Play,2.0,32.0,4000.0,6.3,,10.0,5.0,,28.0,2022.0,0,0,Unisoc,6152.3
+Itel,Vision 1,Itel | Vision 1,2.0,32.0,4000.0,6.08,,10.0,8.0,169.0,28.0,2020.0,0,0,Unisoc,5382.3
+Realme,7i,Realme | 7i,8.0,128.0,5000.0,6.5,90.0,18.0,64.0,188.0,11.0,2020.0,0,0,Qualcomm,13852.300000000001
+Realme,C25Y,Realme | C25Y,4.0,64.0,5000.0,6.5,60.0,18.0,50.0,200.0,12.0,2021.0,0,0,Unisoc,11164.23
+Realme,C51,Realme | C51,4.0,64.0,5000.0,6.74,90.0,33.0,50.0,186.0,12.0,2023.0,0,0,Unisoc,10009.23
+Realme,8 Pro,Realme | 8 Pro,6.0,128.0,4500.0,6.4,60.0,50.0,108.0,176.0,8.0,2021.0,0,1,Qualcomm,21552.3
+Samsung,Galaxy M04,Samsung | Galaxy M04,4.0,64.0,5000.0,6.5,60.0,15.0,13.0,188.0,12.0,2022.0,0,0,MediaTek,9625.0
+Motorola,Moto G10 Power,Motorola | Moto G10 Power,4.0,64.0,6000.0,6.5,,20.0,48.0,200.0,11.0,2021.0,0,0,Qualcomm,12011.23
+Apple,iPhone 14 Plus,Apple | iPhone 14 Plus,6.0,128.0,4323.0,6.7,60.0,20.0,12.0,203.0,5.0,2022.0,1,1,Apple,86240.0
+Tecno,Spark 6 Go,Tecno | Spark 6 Go,2.0,32.0,5000.0,6.52,60.0,,13.0,193.0,12.0,2020.0,0,0,MediaTek,6930.0
+Samsung,Galaxy Note10+,Samsung | Galaxy Note10+,12.0,256.0,4300.0,6.8,60.0,45.0,16.0,196.0,7.0,2019.0,0,1,Samsung Exynos,87703.0
+Vivo,Y16,Vivo | Y16,4.0,64.0,5000.0,6.51,60.0,10.0,13.0,183.0,12.0,2022.0,0,0,MediaTek,11549.23
+Vivo,iQOO 12,Vivo | iQOO 12,12.0,256.0,5000.0,6.78,144.0,120.0,64.0,203.7,4.0,2023.0,1,1,Qualcomm,53900.0
+Xiaomi,Redmi A1,Xiaomi | Redmi A1,2.0,32.0,5000.0,6.52,,10.0,8.0,192.0,12.0,2022.0,0,0,MediaTek,7699.2300000000005
+Samsung,Galaxy M11,Samsung | Galaxy M11,3.0,32.0,5000.0,6.4,,15.0,13.0,197.0,14.0,2020.0,0,0,Qualcomm,9239.23
+Xiaomi,Redmi 10A,Xiaomi | Redmi 10A,2.0,32.0,5000.0,6.53,,10.0,13.0,194.0,12.0,2022.0,0,0,MediaTek,8084.2300000000005
+Vivo,Y21,Vivo | Y21,4.0,64.0,5000.0,6.51,60.0,18.0,13.0,182.0,12.0,2021.0,0,0,MediaTek,12319.23
+Xiaomi,Redmi Note 12 (8GB RAM),Xiaomi | Redmi Note 12,8.0,128.0,5000.0,6.67,120.0,33.0,50.0,186.0,6.0,2023.0,1,1,Qualcomm,17709.23
+Xiaomi,Redmi Note 12 (6GB+128GB),Xiaomi | Redmi Note 12,6.0,128.0,5000.0,6.67,120.0,33.0,50.0,186.0,6.0,2023.0,1,1,Qualcomm,16554.23
+Samsung,Galaxy M12,Samsung | Galaxy M12,6.0,128.0,6000.0,6.5,90.0,15.0,48.0,221.0,8.0,2021.0,0,0,Samsung Exynos,18094.23
+Samsung,Galaxy A31,Samsung | Galaxy A31,6.0,128.0,5000.0,6.4,60.0,15.0,48.0,185.0,12.0,2020.0,0,1,MediaTek,18479.23
+Xiaomi,Redmi Note 12,Xiaomi | Redmi Note 12,4.0,128.0,5000.0,6.67,120.0,33.0,50.0,183.5,6.0,2023.0,1,1,Qualcomm,15399.23
+Xiaomi,Redmi 13C,Xiaomi | Redmi 13C,4.0,128.0,5000.0,6.74,90.0,18.0,50.0,192.0,12.0,2023.0,0,0,MediaTek,10779.23
+Tecno,Spark 20 Pro Plus,Tecno | Spark 20 Pro Plus,8.0,256.0,5000.0,6.78,120.0,33.0,108.0,179.0,6.0,2023.0,0,1,MediaTek,20789.23
+Tecno,Camon 20,Tecno | Camon 20,8.0,256.0,5000.0,6.67,60.0,33.0,64.0,190.0,12.0,2023.0,0,1,MediaTek,14629.23
+Xiaomi,13 Lite,Xiaomi | 13 Lite,8.0,256.0,4500.0,6.55,120.0,67.0,50.0,171.0,4.0,2023.0,1,1,Qualcomm,31955.0
+Oneplus,10T 5G,Oneplus | 10T 5G,16.0,256.0,4800.0,6.7,120.0,150.0,50.0,203.5,4.0,2022.0,1,1,Qualcomm,65442.3
+Oneplus,Nord 3 5G,Oneplus | Nord 3 5G,8.0,128.0,5000.0,6.74,120.0,80.0,50.0,193.5,4.0,2023.0,1,1,MediaTek,33494.23
+Xiaomi,13 Ultra,Xiaomi | 13 Ultra,12.0,256.0,5000.0,6.73,120.0,90.0,50.0,227.0,4.0,2023.0,1,1,Qualcomm,72380.0
+Oneplus,11 5G,Oneplus | 11 5G,16.0,256.0,5000.0,6.7,120.0,100.0,50.0,205.0,4.0,2023.0,1,1,Qualcomm,76992.3
+Xiaomi,13 Pro,Xiaomi | 13 Pro,12.0,256.0,4820.0,6.73,120.0,120.0,50.0,229.0,4.0,2022.0,1,1,Qualcomm,84700.0
+Samsung,Galaxy Z Fold5,Samsung | Galaxy Z Fold5,12.0,256.0,4400.0,7.6,120.0,25.0,50.0,253.0,4.0,2023.0,1,1,Qualcomm,230999.23
+Xiaomi,Poco X5 Pro 5G,Xiaomi | Poco X5 Pro 5G,6.0,128.0,5000.0,6.67,120.0,67.0,108.0,181.0,6.0,2023.0,1,1,Qualcomm,19481.0
+Oppo,A77,Oppo | A77,4.0,128.0,5000.0,6.56,90.0,33.0,50.0,187.0,12.0,2022.0,1,0,MediaTek,13852.300000000001
+Oneplus,Nord CE 3 Lite 5G,Oneplus | Nord CE 3 Lite 5G,8.0,128.0,5000.0,6.72,120.0,67.0,108.0,195.0,6.0,2023.0,1,0,Qualcomm,23099.23
+Oppo,F21 Pro,Oppo | F21 Pro,8.0,128.0,4500.0,6.43,90.0,33.0,64.0,175.0,6.0,2022.0,0,1,Qualcomm,21714.0
+Xiaomi,13T Pro,Xiaomi | 13T Pro,12.0,512.0,5000.0,6.67,144.0,120.0,50.0,200.0,4.0,2023.0,1,1,MediaTek,53900.0
+Infinix,Note 12 2023,Infinix | Note 12 2023,8.0,128.0,5000.0,6.7,60.0,33.0,50.0,195.0,6.0,2022.0,0,1,MediaTek,14629.23
+Xiaomi,Redmi Note 13 Pro Plus 5G (12GB RAM),Xiaomi | Redmi Note 13 Pro Plus 5G,12.0,256.0,5000.0,6.67,120.0,120.0,200.0,204.5,4.0,2023.0,1,1,MediaTek,24255.0
+Oppo,F19 Pro,Oppo | F19 Pro,8.0,128.0,4310.0,6.43,60.0,30.0,48.0,172.0,12.0,2021.0,0,1,MediaTek,19242.3
+Xiaomi,Redmi Note 10 Pro,Xiaomi | Redmi Note 10 Pro,6.0,64.0,5020.0,6.67,120.0,33.0,64.0,192.0,8.0,2021.0,0,1,Qualcomm,20019.23
+Oppo,Reno8 T,Oppo | Reno8 T,8.0,128.0,5000.0,6.43,90.0,33.0,100.0,180.0,6.0,2023.0,0,1,MediaTek,25402.3
+Infinix,Smart 6 (3GB+64GB),Infinix | Smart 6,3.0,64.0,5000.0,6.6,,10.0,8.0,195.0,12.0,2021.0,0,0,MediaTek,8231.300000000001
+Infinix,Smart 6,Infinix | Smart 6,2.0,32.0,5000.0,6.6,,10.0,8.0,195.0,12.0,2021.0,0,0,MediaTek,6999.3
+Xiaomi,Redmi 9A,Xiaomi | Redmi 9A,2.0,32.0,5000.0,6.53,,10.0,13.0,194.0,12.0,2020.0,0,0,MediaTek,7699.2300000000005
+Oppo,A15,Oppo | A15,3.0,32.0,4230.0,6.52,60.0,10.0,13.0,175.0,12.0,2020.0,0,0,MediaTek,8462.300000000001
+Infinix,Note 30 Pro,Infinix | Note 30 Pro,8.0,256.0,5000.0,6.67,120.0,68.0,108.0,204.7,6.0,2023.0,0,1,MediaTek,18249.0
+Oppo,A9,Oppo | A9,8.0,128.0,5000.0,6.53,60.0,10.0,48.0,195.0,11.0,2019.0,0,0,Qualcomm,15392.300000000001
+Xiaomi,Redmi Note 11 Pro,Xiaomi | Redmi Note 11 Pro,6.0,128.0,5000.0,6.67,120.0,67.0,108.0,202.0,12.0,2022.0,0,1,MediaTek,18480.0
+Xiaomi,Redmi 12C (128GB),Xiaomi | Redmi 12C,6.0,128.0,5000.0,6.71,60.0,10.0,50.0,192.0,12.0,2023.0,0,0,MediaTek,10779.23
+Xiaomi,Redmi 12C (128GB),Xiaomi | Redmi 12C,4.0,128.0,5000.0,6.71,60.0,10.0,50.0,192.0,12.0,2023.0,0,0,MediaTek,10009.23
+Infinix,Note 8i,Infinix | Note 8i,6.0,128.0,5200.0,6.78,,18.0,48.0,,12.0,2020.0,0,0,MediaTek,11542.300000000001
+Xiaomi,Redmi 12C,Xiaomi | Redmi 12C,4.0,64.0,5000.0,6.71,60.0,10.0,50.0,192.0,12.0,2023.0,0,0,MediaTek,9239.23
+Xiaomi,Redmi Note 13 4G,Xiaomi | Redmi Note 13 4G,6.0,128.0,5000.0,6.67,120.0,33.0,108.0,188.5,6.0,2024.0,0,1,Qualcomm,16169.23
+Samsung,Galaxy S22 Plus,Samsung | Galaxy S22 Plus,8.0,128.0,4500.0,6.6,120.0,45.0,50.0,195.0,4.0,2022.0,1,1,Samsung Exynos,97019.23
+Xiaomi,Redmi K60,Xiaomi | Redmi K60,8.0,256.0,5500.0,6.67,120.0,67.0,64.0,204.0,4.0,2023.0,1,1,Qualcomm,44660.0
+Vivo,V30 Pro,Vivo | V30 Pro,8.0,256.0,5000.0,6.78,120.0,80.0,50.0,188.0,4.0,2024.0,1,1,MediaTek,43889.23
+Samsung,Galaxy Note 10,Samsung | Galaxy Note 10,8.0,128.0,3500.0,6.3,,25.0,12.0,168.0,7.0,2019.0,0,1,Samsung Exynos,50820.0
+Oppo,F25 Pro,Oppo | F25 Pro,8.0,128.0,5000.0,6.7,120.0,67.0,64.0,177.0,6.0,2024.0,1,1,MediaTek,23477.3

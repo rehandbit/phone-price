@@ -1,4 +1,5 @@
-import os, sys
+import os
+import sys
 from dataclasses import dataclass
 
 import pandas as pd
@@ -13,6 +14,7 @@ from src.logger import logging
 @dataclass
 class DataIngestionConfig:
     cleaned_data_path: str = os.path.join(ARTIFACT_DIR, "cleaned_data.csv")
+    catalog_path: str = os.path.join(ARTIFACT_DIR, "phone_catalog.csv")
     train_data_path: str = os.path.join(ARTIFACT_DIR, "train.csv")
     test_data_path: str = os.path.join(ARTIFACT_DIR, "test.csv")
 
@@ -32,6 +34,9 @@ class DataIngestion:
 
             os.makedirs(ARTIFACT_DIR, exist_ok=True)
             clean_df.to_csv(self.config.cleaned_data_path, index=False)
+
+            # every modern phone, with or without a price: used by the website dropdowns
+            clean_phone_data(raw_df, keep_unpriced=True).to_csv(self.config.catalog_path, index=False)
 
             # all variants of one phone must stay on the same side of the split
             splitter = GroupShuffleSplit(n_splits=1, test_size=0.2, random_state=42)

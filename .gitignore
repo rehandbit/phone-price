@@ -2,11 +2,17 @@
 data/
 .virtual_documents/
 notebook/
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
 *$py.class
-
+artifacts/
+.env
+venv/
 # C extensions
 *.so
 

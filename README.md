@@ -90,9 +90,9 @@ Other endpoints: `GET /api/models?brand=Asus` and `GET /api/phone?brand=Asus&mod
 - **Start command:** `gunicorn app:app --bind 0.0.0.0:$PORT --workers 1 --timeout 120`
 - **Environment variable:** `PYTHON_VERSION` = a full version, for example `3.11.9`
 
-The model is trained during the build, so it always matches the libraries installed on Render. The raw CSV must be in the repository.
 
-## Limitations
+
+## Limitations about this dataset
 - Prices are from one scrape on 29 July 2025. They are not live prices.
 - Some prices are unofficial (grey-market) and lower than official ones.
 - Estimates are not exact: the typical error is about 13%, and larger for very expensive phones such as foldables.
